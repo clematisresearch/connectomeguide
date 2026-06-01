@@ -1,0 +1,20 @@
+---
+title: Awards
+authors:
+  - name:
+      given: Sophia
+      family: Garcia
+---
+
+# Awards
+
+Describe prizes, recognition, or certificates here.
+
+
+
+
+# Participation Certificates 
+
+asdfasdfdasf
+
+

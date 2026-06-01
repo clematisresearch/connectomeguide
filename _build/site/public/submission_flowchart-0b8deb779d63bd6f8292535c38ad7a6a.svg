@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="980" viewBox="0 0 1400 980" role="img" aria-label="Submission flowchart for Conn2026">
+  <defs>
+    <style>
+      .title { font: 700 32px Arial, sans-serif; fill: #0f172a; }
+      .subtitle { font: 400 18px Arial, sans-serif; fill: #334155; }
+      .box { fill: #ffffff; stroke: #1f2937; stroke-width: 2; rx: 18; ry: 18; }
+      .box2 { fill: #f8fafc; stroke: #334155; stroke-width: 2; rx: 18; ry: 18; }
+      .box3 { fill: #eef2ff; stroke: #4f46e5; stroke-width: 2; rx: 18; ry: 18; }
+      .box4 { fill: #ecfeff; stroke: #0891b2; stroke-width: 2; rx: 18; ry: 18; }
+      .diamond { fill: #fff7ed; stroke: #c2410c; stroke-width: 2; }
+      .label { font: 700 18px Arial, sans-serif; fill: #0f172a; }
+      .text { font: 400 16px Arial, sans-serif; fill: #1e293b; }
+      .small { font: 400 14px Arial, sans-serif; fill: #334155; }
+      .arrow { stroke: #111827; stroke-width: 2.5; fill: none; marker-end: url(#arrowhead); }
+      .arrow-dashed { stroke: #475569; stroke-width: 2; fill: none; stroke-dasharray: 7 6; marker-end: url(#arrowhead); }
+      .note { font: 400 13px Arial, sans-serif; fill: #475569; }
+    </style>
+    <marker id="arrowhead" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#111827"/>
+    </marker>
+  </defs>
+
+  <text x="700" y="52" text-anchor="middle" class="title">Conn2026 Submission Flowchart</text>
+  <text x="700" y="82" text-anchor="middle" class="subtitle">Choose the number of tracks, then follow the pathway that matches your participation goal.</text>
+
+  <!-- Start -->
+  <rect x="540" y="120" width="320" height="70" class="box"/>
+  <text x="700" y="152" text-anchor="middle" class="label">Start</text>
+  <text x="700" y="174" text-anchor="middle" class="text">How many tracks are you submitting?</text>
+
+  <!-- Diamond 1 -->
+  <polygon points="700,230 810,290 700,350 590,290" class="diamond"/>
+  <text x="700" y="282" text-anchor="middle" class="label">1 track or 2 tracks?</text>
+
+  <path d="M700 190 L700 228" class="arrow"/>
+
+  <!-- Left branch: 1 track -->
+  <rect x="110" y="400" width="380" height="90" class="box2"/>
+  <text x="300" y="432" text-anchor="middle" class="label">1 Track</text>
+  <text x="300" y="456" text-anchor="middle" class="text">Participation certificate pathway</text>
+  <text x="300" y="478" text-anchor="middle" class="small">One chosen track only</text>
+
+  <rect x="80" y="530" width="440" height="120" class="box3"/>
+  <text x="300" y="562" text-anchor="middle" class="label">Required deliverables</text>
+  <text x="300" y="588" text-anchor="middle" class="text">• 1 video submission via Discord</text>
+  <text x="300" y="612" text-anchor="middle" class="text">• 1 written report via Google Form</text>
+  <text x="300" y="636" text-anchor="middle" class="small">Video = public audience; report = formal neuroscience audience</text>
+
+  <!-- Right branch: 2 tracks -->
+  <rect x="910" y="400" width="380" height="90" class="box2"/>
+  <text x="1100" y="432" text-anchor="middle" class="label">2 Tracks</text>
+  <text x="1100" y="456" text-anchor="middle" class="text">Check your participation goal</text>
+  <text x="1100" y="478" text-anchor="middle" class="small">Participation certificate or award consideration</text>
+
+  <polygon points="1100,565 1240,625 1100,685 960,625" class="diamond"/>
+  <text x="1100" y="617" text-anchor="middle" class="label">Participation or award?</text>
+
+  <!-- second-level branch left (participation) -->
+  <rect x="860" y="735" width="330" height="90" class="box4"/>
+  <text x="1025" y="767" text-anchor="middle" class="label">Participation</text>
+  <text x="1025" y="791" text-anchor="middle" class="text">Both tracks may be introductory</text>
+  <text x="1025" y="813" text-anchor="middle" class="small">At least one track submitted for a certificate</text>
+
+  <rect x="760" y="855" width="530" height="90" class="box3"/>
+  <text x="1025" y="887" text-anchor="middle" class="label">Submit to Discord + Google Forms</text>
+  <text x="1025" y="911" text-anchor="middle" class="text">Either 1 combined video or 2 separate videos, plus 2 written reports</text>
+
+  <!-- second-level branch right (award) -->
+  <rect x="1140" y="735" width="210" height="90" class="box4"/>
+  <text x="1245" y="767" text-anchor="middle" class="label">Award</text>
+  <text x="1245" y="791" text-anchor="middle" class="text">At least one advanced level</text>
+  <text x="1245" y="813" text-anchor="middle" class="small">Both tracks required</text>
+
+  <rect x="980" y="855" width="420" height="90" class="box3"/>
+  <text x="1190" y="887" text-anchor="middle" class="label">Submit to Discord + Google Forms</text>
+  <text x="1190" y="911" text-anchor="middle" class="text">Either 1 combined video or 2 separate videos, plus 2 written reports</text>
+
+  <!-- arrows -->
+  <path d="M590 290 C450 290 405 330 340 398" class="arrow"/>
+  <path d="M810 290 C950 290 995 330 1060 398" class="arrow"/>
+
+  <path d="M1100 490 L1100 563" class="arrow"/>
+  <path d="M998 676 C970 700 950 710 935 732" class="arrow"/>
+  <path d="M1205 676 C1230 700 1240 710 1245 732" class="arrow"/>
+
+  <path d="M1025 825 L1025 853" class="arrow"/>
+  <path d="M1245 825 L1245 853" class="arrow"/>
+
+  <!-- note -->
+  <text x="700" y="960" text-anchor="middle" class="note">For awards, participants must complete both tracks and at least one track at the Advanced Level.</text>
+</svg>

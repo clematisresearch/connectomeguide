@@ -1,0 +1,60 @@
+version: 1
+
+project:
+  title: 2026 Connectomics Research Competition
+  authors:
+    - name:
+        given: Sapolnach
+        family: Prompiengchai
+  toc:
+    - file: index.md
+    - file: handbook/index.md
+      children:
+        - file: handbook/competition_overview.md
+        - file: handbook/eligibility_criteria.md
+        - file: handbook/how_to_participate.md
+        - file: handbook/submitting_your_entry.md
+        - file: handbook/writing_guide.md
+        - file: handbook/selection_criteria.md
+        - file: handbook/important_dates.md
+        - file: handbook/awards.md
+        - file: handbook/generative_ai.md
+        - file: handbook/important_links.md
+        - file: handbook/organizers_and_partners.md
+    - file: synapse_level_connectomics_flies/index.md
+      children:
+        - file: synapse_level_connectomics_flies/introductory_gui_and_advanced_computational_tracks.md
+        - file: synapse_level_connectomics_flies/dataset_and_tools.md
+        - file: synapse_level_connectomics_flies/neuroglancer_guide.md
+        - file: synapse_level_connectomics_flies/neuprint_gui_guide.md
+        - file: synapse_level_connectomics_flies/neuprint_api_guide.md
+        - file: synapse_level_connectomics_flies/guiding_research_questions_gui.md
+        - file: synapse_level_connectomics_flies/guiding_research_questions_api.md
+          children:
+            - file: synapse_level_connectomics_flies/guiding_research_questions_api/mushroom_body_memory.md
+            - file: synapse_level_connectomics_flies/guiding_research_questions_api/individual_variability.md
+        - file: synapse_level_connectomics_flies/video_submission_guide.md
+        - file: synapse_level_connectomics_flies/written_submission_guide.md
+    - file: macroscale_connectomics_humans/index.md
+      children:
+        - file: macroscale_connectomics_humans/introductory_and_advanced_track.md
+        - file: macroscale_connectomics_humans/dataset_overview.md
+        - file: macroscale_connectomics_humans/resting_state_fmri.md
+        - file: macroscale_connectomics_humans/sample_data_analysis.ipynb
+          children:
+            - file: macroscale_connectomics_humans/sample_data_analysis/rsfc.md
+            - file: macroscale_connectomics_humans/sample_data_analysis/graph_theory.md
+            - file: macroscale_connectomics_humans/sample_data_analysis/correlating_to_behaviour.md
+    - file: neuroscience_guide/index.md
+      children:
+        - file: neuroscience_guide/neurons_and_synapses.md
+    - file: programming_guide/index.md
+      children:
+        - file: programming_guide/basics_python_ide.md
+    - file: guide_to_becoming_a_scientist/index.md
+
+site:
+  template: book-theme
+  options:
+    logo_text: Connectome2026
+    hide_toc: false
