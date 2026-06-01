@@ -1,7 +1,7 @@
 ---
 title: 2026 Connectomics Research Competition
 authors:
-  - name: Sapolnach (Shemrock) Prompiengchai
+  - name: Sapolnach Prompiengchai
     affiliations:
       - University of Oxford
   - name: Aarushi Vardhan
