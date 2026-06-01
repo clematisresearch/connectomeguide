@@ -40,4 +40,3 @@ Competition winners and award recipients will be announced in **February 2027**.
 
 Participation certificates, award certificates, and prizes will be distributed between **March and May 2027**.
 
-

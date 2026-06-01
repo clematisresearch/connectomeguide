@@ -31,14 +31,12 @@ Using cutting-edge visualization and analysis tools developed by leading researc
 
 ```{iframe} https://www.youtube.com/embed/QkyM6n6th6Y
 :width: 100%
-:height: 500
 ```
 
 At the macroscopic scale, you will explore the human functional connectome—the dynamic networks formed when different regions of the brain activate together. Using real large-scale neuroimaging data from over 200 participants, alongside extensive behavioral and cognitive measurements, you will investigate how patterns of brain connectivity relate to individual differences in cognition, behavior, and mental function. The video below gives a nice introduction to human structural and functional connectome!
 
 ```{iframe} https://www.youtube.com/embed/fpZL-QcOqFs
 :width: 100%
-:height: 500
 ```
 
 Together, these two perspectives provide a unique opportunity to study the brain across scales: from individual synapses to whole-brain networks, from structural wiring to dynamic activity, and from neurons to behavior.
@@ -51,7 +49,7 @@ The competition is chaired by graduate researchers affiliated with the **Univers
 
 Through this competition, we hope to share not only the excitement of scientific discovery, but also the tools, techniques, and ways of thinking used by researchers tackling some of neuroscience's most important questions.
 
-Students will also have the opportunity to attend guest lectures from researchers at world-leading institutions. Previous competitions have featured pioneers in artificial intelligence, connectomics, and *Drosophila* neuroscience, offering participants a rare chance to learn directly from scientists who have helped shape these rapidly advancing fields.
+Students will also have the opportunity to attend guest lectures from researchers at world-leading institutions. Our previous competition, [2025 Fly Connectome Research Competition](https://flycomp2025.my.canva.site), has featured pioneers in artificial intelligence, connectomics, and *Drosophila* neuroscience, offering participants a rare chance to learn directly from scientists who have helped shape these rapidly advancing fields.
 
 Most importantly, **you do not need prior experience in neuroscience or programming to participate.**
 
@@ -65,11 +63,11 @@ We hope that Connectome2026 serves not only as a competition, but as a launchpad
 
 To support your journey, we have created a comprehensive learning resource organized into the following sections.
 
-## 1. Handbook
+## [1. Handbook](handbook/index.md)
 
 Everything you need to know about the competition, including rules, timelines, deliverables, submission guidelines, judging criteria, awards, and frequently asked questions.
 
-## 2. Synapse-Level Connectomics (Flies)
+## [2. Synapse-Level Connectomics (Flies)](synapse_level_connectomics_flies/index.md)
 
 A guide to exploring one of the most detailed maps of a brain ever created.
 
@@ -77,7 +75,7 @@ Learn how to investigate neural circuits containing millions of synaptic connect
 
 We have designed the competition so that participants can analyze large-scale connectomics data regardless of their laptop specifications or computational resources.
 
-## 3. Macroscale Connectomics (Humans)
+## [3. Macroscale Connectomics (Humans)](macroscale_connectomics_humans/index.md)
 
 A guide to analyzing large-scale human neuroimaging data.
 
@@ -85,19 +83,19 @@ Using the LEMON dataset from the Max Planck Institute for Human Cognitive and Br
 
 We have similarly designed the competition so that participants can analyze human neuroimaging data regardless of their laptop specifications or computational resources.
 
-## 4. Neuroscience Guide
+## [4. Neuroscience Guide](neuroscience_guide/index.md)
 
 A structured learning guide covering the neuroscience concepts relevant to the competition.
 
 We recognize that participants come from a wide range of educational backgrounds, so this guide is designed to help everyone build a common foundation of knowledge. Whether you are encountering neuroscience for the first time or seeking a deeper understanding of brain networks and cognition, this guide will help you develop the conceptual tools needed to engage with the research questions explored throughout the competition.
 
-## 5. Programming Guide
+## [5. Programming Guide](programming_guide/index.md)
 
 A beginner-friendly introduction to Python programming and computational analysis.
 
 The skills introduced here are directly applicable to the competition while also providing a foundation that can be transferred to many other fields, including science, engineering, data science, artificial intelligence, social sciences, and industry.
 
-## 6. Guide to Becoming a Scientist
+## [6. Guide to Becoming a Scientist](guide_to_becoming_a_scientist/index.md)
 
 Research is about asking questions, communicating discoveries, and building a pathway toward future opportunities.
 
