@@ -1,3 +1,14 @@
+---
+title: How to Participate
+authors:
+  - name: Sapolnach Prompiengchai
+    affiliations:
+      - University of Oxford
+  - name: Aarushi Vardhan
+    affiliations:
+      - University of Toronto / University of Cambridge
+---
+
 # How to Participate
 
 Participating in Connectome2026 is simple. Follow the steps below to make the most of this opportunity to explore neuroscience, connectomics, and scientific research.
