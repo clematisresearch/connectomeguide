@@ -37,9 +37,8 @@ project:
         - file: synapse_level_connectomics_flies/written_submission_guide.md
     - file: macroscale_connectomics_humans/index.md
       children:
-        - file: macroscale_connectomics_humans/introductory_and_advanced_track.md
-        - file: macroscale_connectomics_humans/dataset_overview.md
-        - file: macroscale_connectomics_humans/resting_state_fmri.md
+        - file: macroscale_connectomics_humans/about_lemon.md
+        - file: macroscale_connectomics_humans/access_lemon.md
         - file: macroscale_connectomics_humans/sample_data_analysis.ipynb
           children:
             - file: macroscale_connectomics_humans/sample_data_analysis/rsfc.md
