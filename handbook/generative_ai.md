@@ -72,7 +72,7 @@ No generative AI or AI-assisted technologies were used in the preparation of thi
 **Example 3: Another Example from Elsevier**
 
 ```{admonition} Generative AI Use Disclosure
-During the preparation of this work, the author used ChatGPT (OpenAI) to improve readability, assist with brainstorming, and support code debugging. After using this tool, the author reviewed and edited all content as needed and takes full responsibility for the content of the submission.
+During the preparation of this work, the author used [NAME OF TOOL / SERVICE] in order to [REASON]. After using this tool/service, the author reviewed and edited the content as needed and take(s) full responsibility for the content of the published article.
 ```
 
 ---

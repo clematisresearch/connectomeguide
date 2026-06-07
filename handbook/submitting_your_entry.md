@@ -11,7 +11,7 @@ authors:
 
 # Two Types of Deliverables
 
-This page explains the deliverables required for conn2026 and how to submit them.
+This page explains the deliverables required for Connectome2026 and how to submit them.
 
 For the competition, you will be submitting two types of deliverables:
 
@@ -51,7 +51,7 @@ If you are aiming to be **considered for awards**, you must submit work for **bo
 
 ## Video Submission
 
-All video submissions must be posted in **#conn2026** on the Clematis Discord server: https://tinyurl.com/discordclematis
+All video submissions must be posted in **#Connectome2026** on the Clematis Discord server: https://tinyurl.com/discordclematis
 
 The video submission is intended for a **general audience**, including your fellow participants and the broader Clematis community of over 1,000 learners from around the world. This is an opportunity to communicate your research journey, discoveries, challenges, and insights in an accessible and engaging way.
 

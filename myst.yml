@@ -38,12 +38,11 @@ project:
     - file: macroscale_connectomics_humans/index.md
       children:
         - file: macroscale_connectomics_humans/about_lemon.md
-        - file: macroscale_connectomics_humans/access_lemon.md
-        - file: macroscale_connectomics_humans/sample_data_analysis.ipynb
+        - file: macroscale_connectomics_humans/understanding_preprocessed_data.md
+        - file: macroscale_connectomics_humans/rsfMRI_overview.md
+        - file: macroscale_connectomics_humans/neuroimaging_data_analysis
           children:
-            - file: macroscale_connectomics_humans/sample_data_analysis/rsfc.md
-            - file: macroscale_connectomics_humans/sample_data_analysis/graph_theory.md
-            - file: macroscale_connectomics_humans/sample_data_analysis/correlating_to_behaviour.md
+            - file: macroscale_connectomics_humans/parcellation_timeseries
     - file: neuroscience_guide/index.md
       children:
         - file: neuroscience_guide/neurons_and_synapses.md

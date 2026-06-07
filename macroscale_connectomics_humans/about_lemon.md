@@ -9,7 +9,7 @@ authors:
       - University of Toronto / University of Cambridge
 ---
 
-# Understanding the Dataset and Neuroimaging Workflow
+# What Kinds of Neuroimaging Data are We Working with?
 
 ## From Synapses to Brain Networks
 
@@ -26,13 +26,11 @@ Other techniques are used to study **brain function**, such as functional magnet
 For this competition, we will primarily focus on:
 
 * **Structural MRI (sMRI)** — to study brain anatomy
-* **Resting-State Functional MRI (rs-fMRI)** — to study functional brain networks
+* **Functional MRI (fMRI)** — to study functional brain networks
 
-```{figure} ../static/smri_vs_fmri_placeholder.png
-:width: 80%
-:align: center
-
-Placeholder: Structural MRI versus Functional MRI
+```{iframe} https://www.youtube.com/embed/4UOeBM5BwdY
+:width: 100%
+Structural MRI versus Functional MRI
 ```
 
 ---
@@ -77,7 +75,7 @@ Resting-state fMRI has become one of the most widely used tools in human connect
 
 ---
 
-# Understanding the LEMON Dataset
+# About LEMON Dataset and Typical Neuroimaging Workflow
 
 The dataset used in this competition is the **Leipzig Mind-Brain-Body (LEMON) Dataset**.
 
@@ -121,7 +119,7 @@ you will notice that both **raw** and **preprocessed** data are available.
 
 Raw MRI data are the closest representation of what was acquired directly from the scanner.
 
-If you were conducting your own neuroimaging study, this is typically where your analysis would begin.
+If you were conducting your own neuroimaging study, this is typically where your computational work would begin.
 
 However, raw MRI data are not immediately ready for scientific analysis.
 
@@ -182,7 +180,7 @@ Researchers must still decide:
 * How to quantify network properties
 * How to relate these networks to cognition, behavior, physiology, and mental health
 
-These are precisely the types of questions that form the foundation of human connectomics.
+These are the types of questions that form the foundation of human connectomics.
 
 Importantly, **you will not need to perform the preprocessing steps described above (Step 3) yourself**. For this competition, we have already prepared the data so that you can focus on learning how to analyze and interpret brain networks rather than spending time processing hundreds of gigabytes of raw MRI data.
 
