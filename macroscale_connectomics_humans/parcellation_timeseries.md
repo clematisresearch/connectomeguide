@@ -276,4 +276,16 @@ Now that we have transformed the fMRI data into regional time series, we are rea
 
 **How can we determine whether two brain regions are functionally connected?**
 
-In the next section, we will learn how time series are transformed into **resting-state functional connectivity (rsFC)** matrices and how these matrices form the foundation of modern human connectomics.
+In the next section, we will learn how time series are transformed into **resting-state functional connectivity (rsFC)** matrices and how these matrices are fundamental to analyzing resting-state data. 
+
+Before moving on, take a moment to make sure you are comfortable with the following concepts:
+
+* The difference between **raw** and **preprocessed** neuroimaging data
+* The difference between **resting-state fMRI (rs-fMRI)** and **task-based fMRI**
+* The concepts of **brain parcellation**, **regional time series**, and **functional connectivity**
+* The idea of **large-scale resting-state networks**, including the **Yeo 7-Network Atlas**
+* The differences between the **AAL** and **Schaefer** atlases
+* The role of **Nilearn** in extracting and analyzing neuroimaging data
+
+Do not worry if you do not remember every detail. Try to understand the big picture and how the different pieces fit together. You can always return to earlier sections later if you need a refresher.
+
