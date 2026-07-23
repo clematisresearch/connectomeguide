@@ -155,32 +155,16 @@ Brain Region = Node
 Functional Connection = Edge
 ```
 
-This allows researchers to calculate measures such as:
+Viewing the brain as a network allows researchers to ask questions such as:
 
-* Degree
-* Strength
-* Clustering coefficient
-* Efficiency
-* Modularity
-* Centrality
+* Which brain regions are the most highly connected to the rest of the brain?
+* Which regions act as important hubs for information transfer?
+* How efficiently can information travel across the network?
+* Do groups of brain regions naturally cluster together into communities?
+* How does the overall organization of the brain network change across individuals or conditions?
 
-These methods form the basis of graph-theoretical connectomics.
+These questions form the basis of graph-theoretical connectomics, which provides a powerful framework for studying the brain as an interconnected network rather than a collection of isolated connections.
 
----
-
-## Machine Learning and Predictive Connectomics
-
-Increasingly, researchers use functional connectivity matrices as inputs to machine learning models.
-
-The goal is often to predict:
-
-* Age
-* Cognitive performance
-* Personality traits
-* Psychiatric symptoms
-* Clinical outcomes
-
-In this setting, the connectivity matrix becomes a feature representation of the brain that can be used for prediction and classification.
 
 ---
 
@@ -210,4 +194,6 @@ precision_measure = ConnectivityMeasure(
 )
 ```
 
-For Connectome2026, we will primarily begin with **correlation-based functional connectivity**, since it is intuitive, widely used, and forms the foundation for many subsequent analyses.
+## Next Steps:
+
+For Connectome2026, we will primarily begin with **correlation-based functional connectivity**, since it is intuitive, widely used, and forms the foundation for many subsequent analyses. The functional connectivity will then be used to for our graph theoretical analysis. We can then use FC and graph theoretical measures to link brain and behavior! 

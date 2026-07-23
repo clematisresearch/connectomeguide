@@ -43,6 +43,13 @@ project:
         - file: macroscale_connectomics_humans/neuroimaging_data_analysis
           children:
             - file: macroscale_connectomics_humans/parcellation_timeseries
+            - file: macroscale_connectomics_humans/calculatingFC.md
+            - file: macroscale_connectomics_humans/linking_brain_and_behavior.ipynb
+            - file: macroscale_connectomics_humans/tutorial_human_overview.ipynb
+            - file: macroscale_connectomics_humans/tutorialh1_timeseries.ipynb
+            - file: macroscale_connectomics_humans/tutorialh2_FC.ipynb
+            - file: macroscale_connectomics_humans/tutorialh3_graphtheory.ipynb
+            - file: macroscale_connectomics_humans/tutorialh4_brainbeh_association.ipynb
     - file: neuroscience_guide/index.md
       children:
         - file: neuroscience_guide/neurons_and_synapses.md
