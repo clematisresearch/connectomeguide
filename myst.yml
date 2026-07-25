@@ -49,7 +49,8 @@ project:
             - file: macroscale_connectomics_humans/tutorialh1_timeseries.ipynb
             - file: macroscale_connectomics_humans/tutorialh2_FC.ipynb
             - file: macroscale_connectomics_humans/tutorialh3_graphtheory.ipynb
-            - file: macroscale_connectomics_humans/tutorialh4_brainbeh_association.ipynb
+            - file: macroscale_connectomics_humans/tutorialh4_brainbeh_comparison.ipynb
+            - file: macroscale_connectomics_humans/tutorialh5_brainbeh_association.ipynb
     - file: neuroscience_guide/index.md
       children:
         - file: neuroscience_guide/neurons_and_synapses.md
