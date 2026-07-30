@@ -40,9 +40,9 @@ project:
         - file: macroscale_connectomics_humans/about_lemon.md
         - file: macroscale_connectomics_humans/understanding_preprocessed_data.md
         - file: macroscale_connectomics_humans/rsfMRI_overview.md
-        - file: macroscale_connectomics_humans/neuroimaging_data_analysis
+        - file: macroscale_connectomics_humans/neuroimaging_data_analysis.md
           children:
-            - file: macroscale_connectomics_humans/parcellation_timeseries
+            - file: macroscale_connectomics_humans/parcellation_timeseries.md
             - file: macroscale_connectomics_humans/calculatingFC.md
             - file: macroscale_connectomics_humans/linking_brain_and_behavior.ipynb
             - file: macroscale_connectomics_humans/tutorial_human_overview.ipynb
