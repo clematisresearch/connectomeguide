@@ -1,9 +1,12 @@
 ---
 title: Programming Guide
 authors:
-  - name:
-      given: Hannah
-      family: Perez
+  - name: Sapolnach Prompiengchai
+    affiliations:
+      - University of Oxford
+  - name: Aarushi Vardhan
+    affiliations:
+      - University of Toronto / University of Cambridge
 ---
 
 # Introduction
