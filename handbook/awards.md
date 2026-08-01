@@ -11,7 +11,7 @@ authors:
 
 # Awards and Prizes
 
-A total of **CAD $750** in prize money will be awarded across multiple categories in recognition of outstanding scientific inquiry, communication, and community engagement.
+A total of CAD $750 in prize money will be awarded across multiple categories in recognition of outstanding scientific inquiry, communication, and community engagement. In the event of a tie, the organizers may adjust prize allocations within the total prize pool.
 
 ## Research Excellence Awards
 

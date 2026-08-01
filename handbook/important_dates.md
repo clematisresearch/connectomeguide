@@ -16,7 +16,7 @@ The following dates are important milestones for Connectome2026:
 | Event | Date |
 |---------|---------|
 | **Early Feedback Opportunity** | September 30, 2026, 5:00 PM EDT (GMT-4) |
-| **Final Submission Deadline** | December 31, 2026, 5:00 PM EST (GMT-5) |
+| **Final Submission Deadline** | December 15, 2026, 5:00 PM EST (GMT-5) |
 | **Winners and Awardees Announced** | February 2027 |
 | **Certificates and Prize Distribution** | March–May 2027 |
 
