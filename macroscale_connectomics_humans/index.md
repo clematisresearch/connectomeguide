@@ -13,7 +13,7 @@ authors:
 
 Why do people differ from one another? Why can some individuals learn new skills quickly while others struggle? Why do people differ in their personality, emotional tendencies, attention, memory, sleep patterns, and mental wellbeing? Why do some individuals remain resilient in the face of adversity? What are the underlying causes of depression, addiction, anxiety disorders, or other psychiatric conditions?
 
-These questions lie at the heart of modern cognitive neuroscience and neuropsychiatry.
+These questions lie at the heart of cognitive neuroscience and neuropsychiatry.
 
 One possibility is that the answers are hidden within the large-scale networks of the human brain.
 
@@ -22,8 +22,6 @@ Over the past several decades, advances in functional magnetic resonance imaging
 These brain networks influence how we think, feel, perceive, remember, and behave. Furthermore, growing evidence suggests that differences in brain network organization may help explain differences in cognition, personality, mental health, and aging.
 
 Yet many fundamental questions remain unresolved. Can patterns of brain connectivity predict aspects of cognition or behavior? How do brain networks change across the lifespan? Which aspects of mental health are reflected in brain activity, and which are not? Can we identify biological signatures that help explain why people differ from one another?
-
-These are precisely the kinds of questions that modern human connectomics seeks to answer.
 
 ---
 

@@ -15,9 +15,9 @@ The 2026 Connectomics Research Competition is open to students worldwide and fea
 
 ## High School Category
 
-This category is intended for students who, on **July 1, 2026**, are:
+This category is intended for students who, on **August 1, 2026**, are:
 
-* Currently enrolled in high school; or
+* Currently enrolled in high school, including students in Grades 9–12, Years 10–13, or equivalent pre-university levels; or
 * Taking a gap year after completing high school; and
 * Have **not yet begun** post-secondary studies (e.g., college, university, or equivalent).
 

@@ -37,6 +37,7 @@ project:
         - file: synapse_level_connectomics_flies/written_submission_guide.md
     - file: macroscale_connectomics_humans/index.md
       children:
+        - file: macroscale_connectomics_humans/expectations_humans.md
         - file: macroscale_connectomics_humans/about_lemon.md
         - file: macroscale_connectomics_humans/understanding_preprocessed_data.md
         - file: macroscale_connectomics_humans/rsfMRI_overview.md
@@ -56,8 +57,14 @@ project:
         - file: neuroscience_guide/neurons_and_synapses.md
     - file: programming_guide/index.md
       children:
-        - file: programming_guide/basics_python_ide.md
+        - file: programming_guide/1_why_learn_python.md
+        - file: programming_guide/2_python_install.md
+        - file: programming_guide/3_python_conda.ipynb
+        - file: programming_guide/4_python_tutorial1_basics.ipynb
+        - file: programming_guide/5_python_tutorial2_pandas.ipynb
+        - file: programming_guide/6_python_tutorial3_plotting.ipynb
     - file: guide_to_becoming_a_scientist/index.md
+    - file: past_competition_resources/index.md
 
 site:
   template: book-theme

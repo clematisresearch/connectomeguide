@@ -50,7 +50,7 @@ Follow the instructions here:
 
 https://realpython.com/installing-python/#macos-how-to-check-or-get-python
 
-This introduces a program called **Terminal**, which allows you to interact with your computer by typing commands instead of clicking buttons. Every Macbook should have a Terminal as one of their app. While it may look unfamiliar at first, don't worry!
+This introduces a program called **Terminal**, which allows you to interact with your computer by typing commands instead of clicking buttons. Every Macbook should have a Terminal as one of their apps. While it may look unfamiliar at first, don't worry!
 
 ### Video Tutorial
 
@@ -136,14 +136,14 @@ During the installation, the default settings are suitable for this guide, so yo
 
 We recommend the following beginner-friendly video:
 
-**Python Tutorial for Beginners – Programming with Mosh**
+**Python Tutorial for Beginners - Learn the basics in 20 Min**
 
 https://www.youtube.com/watch?v=Js05B8Z1ivE&t=953s
 
 > [!IMPORTANT]
 > **Skip the Python installation section (00:21–01:03).**
 >
-> In the video, Python is installed using the standalone installer. Since you've already installed Python (using the Python Install Manager on Windows or the official installer on macOS), you can safely skip this part and continue watching from **01:03**.
+> In the video, Python is installed using the standalone installer which is gradually being phased out. Since you've already installed Python (using the Python Install Manager on Windows or the official installer on macOS), you can safely skip this part and continue watching from **01:03**.
 
 The remainder of the video provides an excellent introduction to both Visual Studio Code and the fundamentals of Python programming.
 
@@ -161,6 +161,8 @@ In particular, it demonstrates:
 * `for` loops,
 * functions.
 
-As you watch the video, try to follow along in your own copy of python file on Visual Studio Code. Pause the video occasionally, type the code yourself, and run it to see what happens. Once it works, experiment by changing a few things—for example, modify a variable's value, change the text being printed, or rename a function or variable. Small experiments like these are one of the best ways to build intuition and confidence.
+If you are completely new to programming, don't feel that you need to memorise everything in these videos. The goal at this stage is simply to become familiar with the basic terminology. We encourage you to watch the videos, follow along by running each piece of code at least once, and gain a general understanding of what the different Python concepts do. Many of these ideas will be revisited and reinforced throughout Tutorial 1 of the Programming Guide and the subsequent tutorials, so there is no expectation that you will remember everything after a single pass.
+
+As you watch the videos, try to follow along in your own Python file using Visual Studio Code. Pause the video occasionally, type the code yourself, and run it to see what happens. Once it works, experiment by changing a few things—for example, modify a variable's value, change the text being printed, or rename a function or variable. Small experiments like these are one of the best ways to build intuition and confidence.
 
 If you come across a concept that doesn't quite make sense—such as variables, functions, or for loops—you may ask ChatGPT (or another AI assistant) to explain the intuition behind it or walk through an example step by step. AI can be an excellent tutor for answering questions and clarifying concepts. However, try to write and run the code yourself rather than simply copying the answers. Programming is a practical skill, and the more you experiment with the code on your own, especially at this stage, the faster you'll learn.

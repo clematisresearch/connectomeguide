@@ -80,6 +80,21 @@ For Advanced-Level submissions, we additionally recommend including clear sectio
 * Declaration of Generative AI and AI-assisted technologies in the writing process
 * References
 
+## A Note on Manuscript Structure
+
+The section order above follows a conventional manuscript structure:
+
+> **Abstract → Introduction → Materials and Methods → Results → Discussion**
+
+However, you may notice that many published neuroscience papers use a different format:
+
+> **Abstract → Introduction → Results → Discussion → Materials and Methods**
+
+Placing the **Materials and Methods** at the end of the manuscript is common in many scientific journals, particularly in neuroscience and the life sciences. This allows readers to focus on the motivation and findings first, while the methodological details are presented later.
+
+You are welcome to adopt either structure for your report. If this is your first research manuscript, however, we **strongly recommend** keeping the **Materials and Methods** before the **Results**. Regardless of the order you choose, ensure that all methodological details are described clearly enough for another researcher to reproduce your analysis.
+
+
 # Generative AI
 
 You are required to have "Declaration of Generative AI and AI-assisted technologies in the writing process" section heading in your report, even if you have not used generative AI. Note that participants will not be penalized for the responsible and transparent use of generative AI tools.
