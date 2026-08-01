@@ -21,6 +21,7 @@ project:
         - file: handbook/generative_ai.md
         - file: handbook/important_links.md
         - file: handbook/organizers_and_partners.md
+        - file: handbook/faq.md
     - file: synapse_level_connectomics_flies/index.md
       children:
         - file: synapse_level_connectomics_flies/introductory_gui_and_advanced_computational_tracks.md
