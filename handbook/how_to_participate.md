@@ -17,45 +17,53 @@ Participating in Connectome2026 is simple. Follow the steps below to make the mo
 
 We strongly recommend beginning with the following sections:
 
-* [Handbook](../handbook/index)
-* [Track 1: Synapse-Level Connectomics (Flies)](../synapse_level_connectomics_flies/index)
-* [Track 2: Macroscale Connectomics (Humans)](../macroscale_connectomics_humans/index)
+- [Handbook](../handbook/index) (you are here)
+- [Track 1: Synapse-Level Connectomics (Flies)](../synapse_level_connectomics_flies/index.md)
+- [Track 2: Macroscale Connectomics (Humans)](../macroscale_connectomics_humans/index.md)
 
 These resources introduce the scientific background, datasets, tools, research questions, and learning materials that will support your participation throughout the competition.
+
+Throughout the Track 1 and Track 2 tutorials, we may occasionally refer you to the [Programming Guide](../programming_guide/index.md) for additional background on programming concepts and software setup. Depending on your programming experience, you may find it helpful to work through some or all of the guide, which provides step-by-step instructions for installing Python and the required packages, setting up software such as Visual Studio Code, and learning the fundamentals of Python, NumPy, Pandas, and other tools used throughout the competition. So, don't worry if you have never coded before—we have designed these resources to help you get started.
 
 ---
 
 ## 2. Attend Workshops and Guest Lectures
 
-Throughout the competition, we will host optional workshops, research discussions, and guest lectures led by graduate researchers, faculty members, and invited experts.
+Throughout the competition, we may host optional workshops, research discussions, and guest lectures led by graduate researchers and faculty members. 
+
+All sessions will be recorded and uploaded to our [YouTube channel](https://www.youtube.com/@clematisresearch). 
 
 These events are designed to help participants develop research skills, learn new techniques, and gain insights into careers in neuroscience and related fields.
 
-To stay informed about upcoming events, follow our social media channels:
+To stay informed about upcoming events, follow our channels:
 
 * **LinkedIn:** https://linkedin.com/company/clematis-research-hub
 * **Instagram:** https://www.instagram.com/clematisresearch/
-* **Discord:** https://tinyurl.com/discordclematis
-* **Mailing List:** *Coming Soon*
+* **Discord:** [https://tinyurl.com/discordclematis](https://discord.com/invite/MFFbJQFtvW)
+* **YouTube:** https://www.youtube.com/@clematisresearch
+* **Mailing List:** [https://tinyurl.com/Connectome2026Mail](https://forms.gle/xfE4FsfeNCFg1JGe8)
 
 ---
 
-## 3. Join the Clematis Community
+## 3. Join the Clematis Community and Mailing List
 
-We strongly encourage all participants to join the **Clematis Discord** and subscribe to our mailing list.
-
-These platforms will serve as the primary channels for communication throughout the competition.
+We strongly encourage all participants to join the **Clematis Discord** and subscribe to our **mailing list**. These platforms will serve as the primary channels for communication throughout the competition.
 
 The Clematis Discord will be used to:
 
 * Share competition announcements, reminders, updates, and key deadlines
-* Announce and host workshops, guest lectures, journal clubs, and drop-in help sessions
+* Announce and host workshops, guest lectures, journal clubs, and any other events.
 * Provide dedicated channels for idea sharing, discussion, troubleshooting, and peer support
 * Allow participants to ask questions and receive guidance from organizers and researchers
 * Facilitate community engagement with fellow participants from around the world
 * Submit competition entries and supporting materials
 
-**Discord:** https://tinyurl.com/discordclematis
+Another way to stay informed throughout the competition is through our [**Connectome2026 Mailing List**](https://forms.gle/xfE4FsfeNCFg1JGe8). 
+
+Subscribe to stay in the loop about the **2026 Connectomics Research Competition** and receive competition updates, deadline reminders, workshop announcements, and helpful resources as you explore the connectome and prepare your submission.
+
+* **Discord:** [https://tinyurl.com/discordclematis](https://discord.com/invite/MFFbJQFtvW)
+* **Mailing List:** [https://tinyurl.com/Connectome2026Mail](https://forms.gle/xfE4FsfeNCFg1JGe8)
 
 ---
 
@@ -63,7 +71,7 @@ The Clematis Discord will be used to:
 
 Before beginning your project, carefully review the requirements outlined in:
 
-* [Submitting Your Entry](submitting_your_entry)
+* [Submitting Your Entry](submitting_your_entry.md)
 
 This section explains the required deliverables, submission process, formatting requirements, and where your final work should be submitted.
 
@@ -90,7 +98,7 @@ To receive a participation certificate, participants must successfully complete 
 
 To receive a participation certificate, submissions must demonstrate a genuine effort to engage with the competition. At a minimum, participants should make a reasonable attempt to use the provided tools, explore the datasets, and complete the activities associated with their chosen track.
 
-When determining eligibility for a participation certificate, we place greater emphasis on effort and engagement than on obtaining specific results or conclusions. Detailed expectations can be found in the [Selection Criteria](selection_criteria) section.
+When determining eligibility for a participation certificate, we place greater emphasis on effort and engagement than on obtaining specific results or conclusions. Detailed expectations can be found in the [Selection Criteria](selection_criteria.md) section.
 
 ### Award Eligibility
 
