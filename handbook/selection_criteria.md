@@ -53,6 +53,10 @@ Participants who submit separate videos for each track will be evaluated using t
 
 This approach allows participants flexibility in how they communicate their work while ensuring that all participants are assessed on their ability to communicate scientific ideas clearly and effectively to a broader audience.
 
+```{note}
+If you are unsure about the required submission materials (e.g., whether to submit one or two reports or videos), please first refer to the previous subsection, **[Submitting Your Entry](submitting_your_entry.md)**, which explains the submission requirements for each participation pathway.
+```
+
 ---
 
 # Written Report Selection Criteria
@@ -263,7 +267,6 @@ The video is poorly presented or lacks a clear personal or project voice.
 
 # Participation Certificate versus Awards
 
-For participation certificate eligibility, the emphasis is on meaningful effort and engagement with the competition.
+For participation certificate eligibility, the emphasis is on meaningful effort and engagement with the competition. Participants must achieve a score of **at least 50%** on **both** the written report component and the video submission component.
 
 For awards and prizes, judges will look for stronger performance across the selection criteria. 
-
