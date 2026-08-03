@@ -11,7 +11,7 @@ authors:
 
 # Handbook
 
-# Welcome to the Connectome2026 Handbook.
+# Welcome to the Connectome2026 Handbook
 
 This section contains all the information you need to participate in the **2026 Connectomics Research Competition**, including competition rules, eligibility requirements, submission guidelines, awards, important dates, and other essential resources.
 
