@@ -23,29 +23,29 @@ That said, we strongly encourage participants to discuss ideas, ask questions, a
 
 ---
 
-## I will begin university in August or September 2026. Which category should I compete in?
+## I will begin university in September or October 2026. Which category should I compete in?
 
-Your category is determined by your educational status on **August 1, 2026**.
+Your category is determined by your educational status on **October 31, 2026**.
 
-If you have **not yet started** your undergraduate or post-secondary studies on or before August 1, 2026, you should participate in the **High School Category**, even if you will begin university later in 2026.
+If you have **not yet started** your undergraduate or post-secondary studies on or before **October 31, 2026**, you should participate in the **High School Category**, even if you will begin university later in 2026.
 
 ---
 
-## I completed my high school studies before August 1, 2026 or am taking a gap year. Can I still participate in the High School Category?
+## I completed my high school studies before October 31, 2026 or am taking a gap year. Can I still participate in the High School Category?
 
 Yes.
 
-As long as you have **not started** your post-secondary education before August 1, 2026, you remain eligible for the High School Category.
+As long as you have **not started** your post-secondary education before October 31, 2026, you remain eligible for the High School Category.
 
 This includes students who have completed their high school examinations, graduated from high school, or are currently taking a gap year before beginning university.
 
 ---
 
-## I completed my undergraduate degree requirements in May 2026 but will officially graduate or convocate later in the year. Am I eligible for the Undergraduate Category?
+## I completed my undergraduate degree requirements in July 2026 but will officially graduate or convocate later in the year (e.g., November). Am I eligible for the Undergraduate Category?
 
 You are welcome to participate in the competition, but you will not be eligible for undergraduate awards or prizes.
 
-If you completed your final undergraduate course requirements and effectively finished your first undergraduate degree **before August 1, 2026**, you are considered to have completed your undergraduate studies for the purpose of prize eligibility, regardless of your official graduation or convocation date.
+If you completed your final undergraduate course requirements and effectively finished your first undergraduate degree **before October 31, 2026**, you are considered to have completed your undergraduate studies for the purpose of prize eligibility, regardless of your official graduation or convocation date.
 
 However, if you are on a summer break and have **not yet completed all degree requirements**—for example, if you still need to complete future coursework in order to graduate—you remain eligible for the Undergraduate Category.
 
@@ -67,7 +67,7 @@ If you are enrolled in a **three-year technical CEGEP program**, your eligibilit
 
 You may participate in the **High School Category during your first year** of the technical CEGEP program. However, once you have begun your second year, you will no longer be eligible for the High School Category.
 
-To be eligible for High School Category prizes, you must **not have started your second year of a technical CEGEP program before August 1, 2026**.
+To be eligible for High School Category prizes, you must **not have started your second year of a technical CEGEP program before October 31, 2026**.
 
 If you are unsure which category applies to your situation, please contact us via Discord or email at clematis.reh@gmail.com
 
@@ -78,10 +78,6 @@ If you are unsure which category applies to your situation, please contact us vi
 Yes. All participants who submit an eligible entry will receive a **Certificate of Participation**. Award recipients will additionally receive a **Certificate of Award and Recognition**, along with any prizes associated with their award.
 
 ---
-
-## Can I continue developing my project after the competition?
-
-Yes. Participants are welcome to continue developing their work after the competition. Depending on the nature and quality of the project, this may include expanding it into a research paper, preprint, journal article, conference presentation, portfolio project, or other scholarly work.
 
 
 ## Can I continue developing my project after the competition?

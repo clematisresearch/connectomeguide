@@ -66,6 +66,8 @@ project:
         - file: programming_guide/6_python_tutorial3_plotting.ipynb
     - file: guide_to_becoming_a_scientist/index.md
     - file: past_competition_resources/index.md
+      children:
+        - file: past_competition_resources/flycomp2025.md
 
 site:
   template: book-theme
