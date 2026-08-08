@@ -22,13 +22,13 @@ project:
         - file: handbook/important_links.md
         - file: handbook/organizers_and_partners.md
         - file: handbook/faq.md
-    - file: synapse_level_connectomics_flies/index.md
+    - file: synapse_level_connectomics_flies/1.index.md
       children:
-        - file: synapse_level_connectomics_flies/introductory_gui_and_advanced_computational_tracks.md
-        - file: synapse_level_connectomics_flies/dataset_and_tools.md
-        - file: synapse_level_connectomics_flies/neuroglancer_guide.md
-        - file: synapse_level_connectomics_flies/neuprint_gui_guide.md
-        - file: synapse_level_connectomics_flies/neuprint_api_guide.md
+        - file: synapse_level_connectomics_flies/2.dataset_and_tools.md
+        - file: synapse_level_connectomics_flies/5.neuroglancer_guide.md
+        - file: synapse_level_connectomics_flies/4a.neuprint_gui_guide.md
+        - file: synapse_level_connectomics_flies/3b.neuprint_api_guide.ipynb
+        - file: synapse_level_connectomics_flies/3a.neuprint_api_guide.md
         - file: synapse_level_connectomics_flies/guiding_research_questions_gui.md
         - file: synapse_level_connectomics_flies/guiding_research_questions_api.md
           children:
