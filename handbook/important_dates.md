@@ -35,9 +35,9 @@ Late submissions will not be accepted. To avoid potential issues with internet c
 
 ## Winners and Awardees Announced
 
-Competition winners and award recipients will be announced in **February 2027**.
+Competition winners and award recipients will be announced in **March 2027**.
 
 ## Certificates and Prize Distribution
 
-Participation certificates, award certificates, and prizes will be distributed between **March and May 2027**.
+Participation certificates, award certificates, and prizes will be distributed between **May and June 2027**.
 
