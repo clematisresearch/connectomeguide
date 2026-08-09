@@ -80,11 +80,13 @@ You can think of the token as a **digital key** that unlocks access to the neuPr
 
 > **Important**
 >
-> Keep your authentication token private. Anyone with your token may be able to access neuPrint using your account. You get the token by going the neuPrint webbrowser on the upper right corner (see image below). There you will find your unique neuPrint token. 
+> Keep your authentication token private. Anyone with your token may be able to access neuPrint using your account. You get the token by going the neuPrint webbrowser. Click on the upper right corner (see image below). There you will find your unique neuPrint token. 
 
-:::{image} ../static/token-screenshot.png
+:::{figure} ../static/token-screenshot.png
 :alt: neuPrint Token
 :width: 500px
+
+Figure 1: Click on the upper right corner for account. Three you will find your token. 
 :::
 
 Once you have these three pieces of information, you are ready to create your first `Client` object and begin querying connectome data!

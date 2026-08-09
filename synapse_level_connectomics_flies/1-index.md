@@ -13,8 +13,8 @@ authors:
 
 We often do not think much about flies beyond the hot summer days when they appear around overripe bananas and forgotten fruit. Yet these tiny insects are far more remarkable than a simple nuisance. Fruit flies possess brains roughly the size of a poppy seed, but within this miniature structure lies an extraordinary capacity for complex behaviour.
 
-:::{image} ../static/human_fly_mouse_comparison.png
-:alt: A fruit fly brain
+:::{figure} ../static/human_fly_mouse_comparison.png
+Figure 1:  A fruit fly brain
 :width: 500px
 :::
 

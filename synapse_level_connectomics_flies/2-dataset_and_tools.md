@@ -25,9 +25,11 @@ We will be using the [maleCNS Connectome](https://www.janelia.org/project-team/f
 - **Ventral Nerve Cord:** Similar to the spinal cord in vertebrates, this region processes and relays information throughout the body.
 - **Central Brain:** The main processing center of the fly brain.
 
-:::{image} ../static/malecns.jpg
+:::{figure} ../static/malecns.jpg
 :alt: A Drosophila CNS Connectome
 :width: 500px
+
+Figure 1: A male CNS connectome of *Drosophila melanogaster*
 :::
 
 This connectome contains **166,691 neurons** that have been annotated into cell types.
@@ -42,9 +44,10 @@ To better understand cell types, consider the examples below: **LC10a** and **LC
 
 When a connectome is constructed without annotations, these two neuron types may appear very similar. However, closer examination of their morphology and connectivity patterns reveals subtle differences that justify classifying them as distinct cell types.
 
-:::{image} ../static/LC10a_celltypes.png
-:alt: Comparison of LC10a and LC10b cell types
+:::{figure} ../static/LC10a_celltypes.png
 :width: 500px
+
+Figure 2: Comparison of LC10a and LC10b cell types
 :::
 
 # How do I access the connectome?
