@@ -88,6 +88,22 @@ Let's say that, from your introductory reading, you become interested in **memor
 
 The OpenStax textbook defines retrieval as the "act of getting information out of long-term memory storage and back into conscious awareness."
 
+At this point, rather than immediately looking for one individual experiment, I would first try to find a **review article** about memory retrieval.
+
+Why?
+
+Because when you are new to a topic, you usually do not yet know which experiments are important, which ideas are widely accepted, which terms you need to understand, or even what the major questions in the field are. A good review can give you this broader picture by bringing together findings from many different studies.
+
+A **primary research article** usually reports a specific study that the authors carried out themselves. A **review article**, by contrast, looks across many existing studies and brings them together to explain what researchers currently know about a particular topic.
+
+You can think of it roughly like this:
+
+> **Primary paper:** "Here is the experiment we did and what we found."
+
+> **Review paper:** "Here is what the field has learned from many experiments, and how these findings fit together."
+
+So, when you are first entering an unfamiliar research area, a good review can act as a kind of **map of the field**. It helps you learn the language, identify important ideas and experiments, and decide what you want to explore more deeply.
+
 So perhaps you go to Google and type:
 
 > `memory retrieval review`
@@ -102,7 +118,7 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC6903648/
 
 The title already gives us a clue that this might be useful. *The neurobiological foundation of memory retrieval* sounds relatively broad. It does not sound like a paper describing one very specific experiment. It sounds like the authors are going to explain and synthesize an area of research.
 
-It is also a **review article**, written by experts in the field.
+And that is exactly what a **review article** is useful for.
 
 When you are new to an area, good expert reviews can be extremely useful because someone has already done part of the work of organizing the field for you.
 
@@ -110,9 +126,13 @@ In neuroscience, you will often find influential reviews in journals such as *Na
 
 Journal names and metrics are certainly **not everything**, but when you are completely new to a field, they can provide some useful clues about where to begin.
 
+Most importantly, however, **look at what the paper is actually trying to do**. A broad title, an article described as a review, and a paper that brings together many studies are all good signs that you may have found a useful place to start.
+
+
+
 ## Follow the Story of the Field
 
-So, let's start reading the Frankland et al. review.
+So, let's start reading the [Frankland et al. review](https://pmc.ncbi.nlm.nih.gov/articles/PMC6903648/).
 
 The authors begin by describing seminal work by Tulving and Pearlstone in 1966 and the idea that a failure to remember something does not necessarily mean that the memory itself has disappeared. Instead, **memory failure could also reflect a problem with retrieval**.
 
@@ -120,11 +140,11 @@ As you continue, the authors introduce another term: **ecphory**.
 
 Then we encounter the concept of an **engram**, and we begin learning how these ideas relate to memory retrieval.
 
-Already, just from carefully reading the introduction—and doing some searching whenever necessary—you have started learning the basic concepts of memory retrieval and engrams. You have also begun to see, at least roughly, how thinking in the field developed over time.
+Already, just from carefully reading the introduction, and doing some searching whenever necessary, you have started learning the basic concepts of memory retrieval and engrams. You have also begun to see, at least roughly, how thinking in the field developed over time.
 
 So far, so good.
 
-Then you reach the section called **"Manipulating retrieval"**.
+Then you reach the first section called **"Manipulating retrieval"**.
 
 Or perhaps you look at **"Box 1 | Approaches for tagging and manipulating engrams in rodents."**
 
@@ -324,7 +344,7 @@ So you search again:
 
 > `hippocampus and memory retrieval in humans review`
 
-When I search this, one of the first results is **"A closer look at the hippocampus and memory"**, published in *Trends in Cognitive Sciences*: https://pmc.ncbi.nlm.nih.gov/articles/PMC5659202/ 
+When I search this, one of the first results is **"A closer look at the hippocampus and memory" (Voss et al., 2018)**, published in *Trends in Cognitive Sciences*: https://pmc.ncbi.nlm.nih.gov/articles/PMC5659202/ 
 
 It has more than 300 citations. Again, citation counts are **not** a perfect measure of quality or importance. But when you are completely new to an area and trying to decide where to start, they can be one useful clue.
 
@@ -336,15 +356,15 @@ Let's read it.
 
 ## And Then the Process Starts Again
 
-The author introduces **episodic memory**, a concept we already encountered in our OpenStax textbook.
+The authors ([Voss et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5659202/)) introduces **episodic memory**, a concept we already encountered in our OpenStax textbook.
 
 But now the discussion becomes much more sophisticated.
 
-The author emphasizes that episodic memory requires us to bind together different stimuli and their **spatial, temporal, and conceptual relationships** to form coherent memory representations.
+The authors emphasize that episodic memory requires us to bind together different stimuli and their **spatial, temporal, and conceptual relationships** to form coherent memory representations.
 
 In simpler terms, a coherent memory is not necessarily one isolated piece of information. We need to bind different things together: what happened, where it happened, when it happened, how different pieces of information relate to one another, and so on.
 
-Then the author starts discussing how the hippocampus may be critical for the "bi-directional interaction of memory and exploration processes that are iteratively engaged over the course of learning in order to build episodic memories."
+Then the authors start discussing how the hippocampus may be critical for the "bi-directional interaction of memory and exploration processes that are iteratively engaged over the course of learning in order to build episodic memories."
 
 And perhaps you read that sentence and think:
 
