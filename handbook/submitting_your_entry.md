@@ -93,8 +93,8 @@ For general guidance on scientific writing, referencing, word counts, and commun
 For track-specific requirements and expectations, please consult the relevant track sections and submission instructions.
 
 The Google Form links to submit your written report:
-- **Track 1 (Flies):** placeholder link
-- **Track 2 (Humans):** placeholder link
+- **Track 1 (Flies):** https://forms.gle/zny6FE7PEEmzcbQB7 
+- **Track 2 (Humans):** https://forms.gle/cgHzUadfhcTh45xK7
 
 # Submission Flowchart
 
