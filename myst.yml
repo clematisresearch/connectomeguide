@@ -67,6 +67,7 @@ project:
     - file: guide_to_becoming_a_scientist/index.md
       children:
         - file: guide_to_becoming_a_scientist/1_explore_your_interests.md
+        - file: guide_to_becoming_a_scientist/2_reading_scientific_papers.md
     - file: past_competition_resources/index.md
       children:
         - file: past_competition_resources/flycomp2025.md
