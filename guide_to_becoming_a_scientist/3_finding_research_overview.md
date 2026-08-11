@@ -77,7 +77,7 @@ You do not necessarily have to wait until someone gives you a position in a labo
 
 You can learn Python or R. You can learn statistics and data visualization. You can download publicly available scientific datasets. You can reproduce analyses from papers. You can learn to use open-source scientific software. You can put your code on GitHub. And, as your skills develop, you can begin asking and investigating your **own scientific questions using real data**.
 
-Connectome2026 itself is built around this idea. Brain datasets—from synapse-level maps of neural circuits to macroscale human neuroimaging datasets—give students opportunities to work with real neuroscience data without needing to own a microscope, operate an MRI scanner, maintain an animal facility, or already belong to a research laboratory.
+Connectome2026 itself is built around this idea. Brain datasets, from synapse-level connectomes to macroscale human neuroimaging datasets, give students opportunities to work with real neuroscience data without needing to own a microscope, operate an MRI scanner, maintain an animal facility, or already belong to a research laboratory.
 
 These independent experiences do not completely replace being mentored by experienced scientists or working within a research group. As we discussed earlier, learning to become a scientist is partly an **apprenticeship**.
 

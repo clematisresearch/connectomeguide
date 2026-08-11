@@ -51,7 +51,7 @@ So what might make someone choose *you*?
 
 Here is another slightly counterintuitive example.
 
-Suppose you are an undergraduate student. Some professors might actually prefer taking a **second-year student** over a third-year or final-year student, even if the more senior student has more knowledge and experience.
+Suppose you are an undergraduate student. Professors might actually prefer taking a **second-year student** over a third-year or final-year student, even if the more senior student has more knowledge and experience.
 
 Why?
 
@@ -69,13 +69,13 @@ Saying that you are passionate about neuroscience is helpful, but passion alone 
 
 A more concrete statement might be:
 
-> "I would like to volunteer in the lab from September to April to learn the relevant skills, and I would be excited to apply for a summer research award and continue as a thesis student next year."
+> "I would like to volunteer in the lab from September to April for 10 hours a week to learn the relevant skills, and I would be excited to apply for a summer research award and continue as a thesis student next year."
 
 Now the professor can see a potential timeline.
 
-I know this example assumes that you are an undergraduate at an institution with research courses, thesis programmes, and summer awards. Your circumstances might be completely different.
+I know this example assumes that you are an undergraduate at an institution with research courses, thesis programmes, and summer awards. This example also assumes that you can take time off to volunteer. Your circumstances might be completely different.
 
-The broader point is simply this: **be concrete about how long you can commit and what you hope the experience could develop into.**
+The broader point is this: **be concrete about how long you can commit and what you hope the experience could develop into.**
 
 In fact, because commitment matters, some professors may not recruit volunteers at all. They may prefer students who have a part-time employment contract, hold a summer research award, or are completing a formal research course or thesis.
 
@@ -125,32 +125,29 @@ Your email could look something like this:
 >
 > I would like to apply for the [XYZ Summer Research Award/Internship] to work in your lab during the award period from May to August 2027, and I would be excited to continue as a thesis student in the 2027–2028 academic year.
 >
-> I am excited by your research using fMRI to study how our brain, and the hippocampus in particular, binds different types of stimuli to form coherent memory representations. [assuming they do hippocampus / fMRI research]
+> I am excited by your research using fMRI to study how our brain, and the hippocampus in particular, binds different types of stimuli to form coherent memory representations. [assuming they do this kind of research]
 >
-> I also have a basic programming background in Python. Through Connectome2026, I have explored the Mind-Brain-Body fMRI dataset of 200+ healthy participants and used Nilearn and NetworkX to investigate how brain networks may differ with age, which I hope would help me grasp neuroimaging analysis in your lab more quickly.
+> I also have a basic programming background in Python. Through Connectome2026 (a connectomics research competition), I have explored the Mind-Brain-Body fMRI dataset of 200+ healthy participants and used Nilearn and NetworkX to investigate how brain networks may differ with age, which I hope would help me grasp neuroimaging analysis in your lab more quickly.
 >
 > I have attached my transcript and CV to this email.
 >
 > Best,
+>
 > Sapolnach
 
-As you can see, **short and sweet**.
+As you can see, **short and concise**.
 
-And the Connectome2026 sentence is completely optional. You might have no previous research experience at all.
-
-There is usually still *something* relevant you can mention. Perhaps you have taken a statistics course. Perhaps you have started learning Python. Perhaps you read an introductory psychology textbook and have begun reading papers about memory. Perhaps you completed a relevant class project.
-
-You do not need to make yourself sound like an experienced scientist.
+And the Connectome2026 sentence is optional. Although you might have no previous research experience at all, there is usually still *something* relevant you can mention. Perhaps you have taken a statistics course. Perhaps you have started learning Python. Perhaps you read an introductory psychology textbook and have begun reading papers about memory. Perhaps you completed a relevant class project.
 
 So, in very simple terms, the email contains:
 
 1. **A short introduction:** who are you?
 2. **A concrete timeline or plan:** when do you want to join, for how long, and is there a programme, award, thesis, or course involved?
 3. **One line about their research:** what specifically interests you about their work? Reading their lab websites or faculty profile may help. 
-4. **If relevant, one line about your existing skills or knowledge:** is there anything that might help you get started?
+4. **If relevant, one to two lines about your existing skills or knowledge:** is there anything that might help you get started?
 5. **Your CV and transcript**, if appropriate.
 
-For an undergraduate applying to laboratories within their own institution, sending this kind of concise, targeted email to **many relevant laboratories** can be a very reasonable strategy, especially if you have limited time.
+For an undergraduate applying to laboratories within their own institution, sending this kind of concise, targeted email to **many relevant laboratories** can be a very reasonable strategy. 
 
 You do not necessarily need to spend 10 hours writing every initial email.
 
@@ -172,7 +169,7 @@ You cannot necessarily say:
 
 > "Train me now and I will stay for three years, complete a thesis with you, and continue working in your lab."
 
-There may also be significant logistical and administrative barriers to bringing you into the laboratory, which makes the professor to prefer students from their own institutions. 
+There may also be significant logistical and administrative barriers to bringing you into the laboratory, which makes the professor prefer students from their own institutions. 
 
 So what do you do?
 
@@ -279,19 +276,16 @@ This group seems interested in **whole-brain modelling**, brain network dynamics
 
 If you look further into his lab websites, you will see that this professor also has written reviews such as [The Thermodynamics of Mind](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00075-5) or a book "Whole-brain modelling. Cartography of the dynamics of mind."
 
-If I were trying to join this laboratory without any existing connection, I might now look at their **GitHub repositories**.
+If I were trying to join this laboratory without any existing connection, I might now look at their **GitHub repositories** (often mentioned towards the end of their research papers) to see what code did they use to produce the figures and their results.
 
-What methods do they use?
+So as you read their papers, think of the following questions:
 
-What exactly is whole-brain modelling?
-
-Is their code publicly available?
-
-Can I get it running?
-
-Can I reproduce one of their analyses?
-
-Could I apply a similar method to a large-scale dataset that I already have access to?
+* What methods do they use?
+* What exactly is whole-brain modelling?
+* Is their code publicly available?
+* Can I get it running?
+* Can I reproduce one of their analyses?
+* Could I apply a similar method to a large-scale dataset that I already have access to?
 
 Then, rather than simply emailing:
 
@@ -299,7 +293,7 @@ Then, rather than simply emailing:
 
 I might eventually be able to email the professor and say:
 
-> "I read your recent work on whole-brain modelling, tried running the publicly available code (shared github), and applied part of the approach to another public dataset to answer XYZ research question. I would love to explore within the context of "XYZ neuropsychiatry topics" in your lab."
+> "I read your recent work on whole-brain modelling and applied part of the approach to another public dataset to answer XYZ research question (share your GitHub repository). I would love to explore within the context of "XYZ neuropsychiatry topics" in your lab."
 
 Or perhaps I come from a strong physics background. Then I might read their work and start thinking:
 
@@ -307,7 +301,7 @@ Or perhaps I come from a strong physics background. Then I might read their work
 
 Now we have a much more interesting conversation.
 
-I think you are much more likely to get someone's attention this way—even if you are a high school student.
+I think you are much more likely to get someone's attention this way, even if you have no prior formal research experience. 
 
 I know this is hard.
 
@@ -327,7 +321,7 @@ Perhaps the first author is a postdoctoral fellow in the laboratory. Perhaps the
 
 You can sometimes send a similar email to them.
 
-This can make particular sense if you have already developed skills relevant to their project. Graduate students and postdocs often have many questions they would like to investigate and only so much time to investigate them. If they think you could become a useful and reliable extra pair of hands, they may be interested in mentoring you.
+Graduate students and postdocs often have many questions they would like to investigate and only so much time to investigate them. If they think you could become a useful and reliable extra pair of hands, they may be interested in mentoring you.
 
 Again, there is no guarantee.
 
@@ -348,6 +342,15 @@ Throughout this section, we have focused quite a lot on emailing researchers bec
 But email is certainly not the only way to connect with researchers or find opportunities.
 
 There are also many other ways to connect with researchers beyond email. You might meet them through conferences, seminars, workshops, journal clubs, summer schools, or student research events, or, if you are at the same institution, through office hours, courses, or departmental events. The same general principles we discussed above still apply: show that you are genuinely interested in their research, demonstrate that you are willing and able to commit, and, where possible, show the knowledge or skills you have already developed that could help you contribute. Sometimes a thoughtful conversation about their work can be the beginning of a research opportunity too.
+
+## Dealing With Rejection
+
+Finally, expect that you will sometimes be **rejected or simply receive no response**. This is normal, and there are many possible reasons: a lab may have no space or funding, the researcher may be too busy to supervise another student, or the timing may simply not work.
+
+If you receive no response, it is also completely reasonable to **follow up once or twice**. For example, you might send a short and polite follow-up after around two weeks. If you still hear nothing, you could potentially try again a month or two later—especially if something has changed in the meantime. Perhaps you have completed a project, learned a new skill, read more of their work, or now have something more concrete that you could contribute.
+
+At the same time, do not wait around for one particular lab. **Reach out to multiple labs, continue reading and developing your skills, and keep applying.** Even an unsuccessful application can help you refine your interests, improve how you approach researchers, and become better prepared for the next opportunity.
+
 
 ## Leveraging Connectome2026 and Public Datasets
 
