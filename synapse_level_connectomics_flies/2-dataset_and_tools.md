@@ -1,12 +1,12 @@
 ---
 title: Dataset and Tools
 authors:
-  - name: Sapolnach Prompiengchai
-    affiliations:
-      - University of Oxford
   - name: Aarushi Vardhan
     affiliations:
       - University of Toronto / University of Cambridge
+  - name: Sapolnach Prompiengchai
+    affiliations:
+      - University of Oxford
 ---
 
 Welcome to exploring the fly connectome!
@@ -25,30 +25,50 @@ We will be using the [maleCNS Connectome](https://www.janelia.org/project-team/f
 - **Ventral Nerve Cord:** Similar to the spinal cord in vertebrates, this region processes and relays information throughout the body.
 - **Central Brain:** The main processing center of the fly brain.
 
+<div style="text-align: center;">
+
 :::{figure} ../static/malecns.jpg
 :alt: A Drosophila CNS Connectome
 :width: 500px
 
-Figure 1: A male CNS connectome of *Drosophila melanogaster*
+**Figure 1: A male CNS connectome of *Drosophila melanogaster*.** This connectome contains 166,691 neurons that have been annotated into cell types.
 :::
 
-This connectome contains **166,691 neurons** that have been annotated into cell types.
+</div>
 
+(cell-types)=
 ## What are cell types?
 
-Imagine trying to understand a dataset containing over 160,000 individual neurons. It would be extremely challenging to determine the role and organization of every neuron individually. To make sense of this complexity, anatomists have grouped neurons into **cell types** based on shared characteristics, including morphology (physical structure) and connectivity patterns.
+Imagine trying to understand a dataset containing over 160,000 individual neurons. It would be extremely challenging to determine the role and organization of every neuron individually. To make sense of this complexity, anatomists group neurons into **cell types** based on shared characteristics, including morphology (physical structure) and connectivity patterns (the types of neurons they connect to).
 
 For example, if a group of neurons has similar structures and consistently connects to similar partners, these neurons may be classified as belonging to the same cell type. This classification allows researchers to study large connectomes at a more manageable level of organization.
 
 To better understand cell types, consider the examples below: **LC10a** and **LC10b**.
 
-When a connectome is constructed without annotations, these two neuron types may appear very similar. However, closer examination of their morphology and connectivity patterns reveals subtle differences that justify classifying them as distinct cell types.
+
+
+<div style="text-align: center;">
 
 :::{figure} ../static/LC10a_celltypes.png
 :width: 500px
 
-Figure 2: Comparison of LC10a and LC10b cell types
+**Figure 2: Comparison of LC10a and LC10b cell types.** When a connectome is constructed without annotations, these two neuron types may appear very similar. However, closer examination of their morphology and connectivity patterns reveals subtle differences that justify classifying them as distinct cell types.
 :::
+
+</div>
+
+Cataloguing cell types based on connectivity is one way to group neurons into meaningful categories. However, defining what exactly makes a **cell type** has been a long-standing challenge. Neurons can differ in many ways, including their **molecular profiles, morphology, electrical properties, and functional responses**. Understanding how these different features can be used to define cell types is an entire field of research.
+
+If you are interested in learning more, we highly recommend this [review](https://www.cell.com/cell/fulltext/S0092-8674%2822%2900783-8).
+
+To get a good introduction to the topic, we recommend reading:
+
+* **Summary**
+* **Introduction**
+* **Approaches to characterise cell types**
+* **Figure 1: Approaches to characterize cell types**
+
+These sections will help you understand what cell types are, how researchers identify them, and how connectomics contributes to the broader goal of understanding the brain.
 
 # How do I access the connectome?
 
@@ -64,7 +84,8 @@ Both approaches serve different purposes. If a GUI is sufficient for your questi
 
 # What tools do I need to begin?
 
-If you are exploring the connectome programmmatically, you will need to install several tools. If you are doing the GUI track please refer to .....
+If you are exploring the connectome programmatically, you will need to install several tools. If you are participating in the GUI track, feel free to skip this section and refer to the [neuPrint GUI Guide](../synapse_level_connectomics_flies/4a-neuprint_gui_guide.md).
+
 
 ## 1. Install Python, a code editor, and set-up you virtual environment
 
@@ -72,7 +93,7 @@ You will need:  VS Code (code editor), Python, and a virtual environment. See [P
 
 ## 2. Install Python packages into your virtual environment via the terminal 
 
-Python packages provide tools needed to ineract with and analyse connectome data. Install these packages inside your virtual environment using the terminal:
+Python packages provide tools needed to interact with and analyse connectome data. Install these packages inside your virtual environment using the terminal:
 
 - **neuPrint:** 
 The neuPrint Python package allows you to access and query connectome datasets directly from Python. Instead of manually searching through the neuPrint website, you can write Python code to retrieve neurons, synapses, connectivity, and metadata.
@@ -81,9 +102,11 @@ The neuPrint Python package allows you to access and query connectome datasets d
 
 A terminal is a program where you can type commands.
 
-Windows: Open Command Prompt or PowerShell
-macOS: Open the Terminal application (Applications → Utilities → Terminal)
-Linux: Open your preferred terminal
+Windows: Open Command Prompt or PowerShell.
+
+macOS: Open the Terminal application (Applications → Utilities → Terminal).
+
+Linux: Open your preferred terminal.
 ### Step 2: Install the package
 
 Type the following command and press Enter:
@@ -100,10 +123,10 @@ conda install -c flyem-forge neuprint-python
 
 This command downloads and installs the neuPrint package along with any required dependencies.
 
-Documentation: https://connectome-neuprint.github.io/neuprint-python/docs/quickstart.html
+For more details, please refer to the [neuPrint documentation](https://connectome-neuprint.github.io/neuprint-python/docs/quickstart.html).
 
 - **Plotly:** 
-Plotly is a Python library used to create **interactive visualizations**. Unlike static figures (such as images produced by Matplotlib), Plotly graphs allow you to:
+Plotly is a Python library used to create **interactive visualizations**. Plotly graphs allow you to:
 
 - zoom into specific regions of a plot
 - hover over points to see additional information
@@ -145,31 +168,12 @@ import plotly.io as pio
 pio.renderers.default = "browser"
 ```
 
-This causes Plotly figures to open in your default web browser rather than being rendered directly inside the notebook.
-
-This can be particularly helpful when working with large datasets or complex interactive figures. Data-heavy Plotly plots can require substantial resources to render, and notebook interfaces may become slow, unresponsive, or difficult to interact with when displaying many thousands of points or complex hover information. In my case, switching to the browser renderer provided substantially better performance and made it easier to interact with data-heavy figures.
-
-The browser renderer is therefore a useful option when working with large Plotly visualizations, although the standard notebook renderer is still convenient for smaller and simpler figures.
+This causes Plotly figures to open in your default web browser rather than being rendered directly inside the notebook.The browser renderer is therefore a useful option when working with large Plotly visualizations, although the standard notebook renderer is still convenient for smaller and simpler figures.
 
 ## New to Programming?
 
 If you are new to programming or this seems overwhelming at first, that is completely normal!
 
-Here is a resource that we personally found very helpful for building programming foundations:
+Please refer to the [Programming Guide](../programming_guide/index.md) for guidance. It is highly encouraged to complete all sections if you are considering participating in the API/computational track.
 
-https://www.theodinproject.com/paths
-
-You will need to create an account (you can use your Google account).
-
-We recommend completing the following sections:
-
-Foundations → Introduction
-Introduction to Web Development
-Motivation and Mindset
-Foundations → Prerequisites
-How Does the Web Work?
-Installations
-Text Editors
-Command Line Basics
-
-Take your time, and feel free to ask questions through Discord or during office hours! 
+Take your time, and feel free to ask questions through the Clematis Discord or during office hours! 🪰

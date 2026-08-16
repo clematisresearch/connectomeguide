@@ -1,15 +1,14 @@
 ---
 title: neuPrint API Guide
 authors:
-  - name: Sapolnach Prompiengchai
-    affiliations:
-      - University of Oxford
   - name: Aarushi Vardhan
     affiliations:
       - University of Toronto / University of Cambridge
+  - name: Sapolnach Prompiengchai
+    affiliations:
+      - University of Oxford
 ---
 
-# All about neuPrint 
 Make sure you have neuPrint downloaded into your virtual environment.
 
 ## But ... What Really is neuPrint? 
@@ -17,12 +16,12 @@ A connectome is a map of how neurons are connected to one another through synaps
 
 While the neuPrint website is designed for interactive exploration through a web browser, it also provides Application Programming Interfaces (APIs) for users who wish to perform automated or large-scale analyses (which we will be using here!). An API allows a computer program to communicate directly with neuPrint, making it possible to retrieve data, run repeated queries, and integrate connectome information into custom analysis pipelines without manually using the website. The data within neuPrint is stored in a Neo4j graph database, which represents neurons as nodes and synaptic connections as relationships between them. This graph-based structure closely reflects the organization of neural circuits and allows complex connectivity queries to be performed efficiently, even for connectomes containing millions of synapses.
 
-For more detailed information, look here: https://neuprint.janelia.org/public/neuprintuserguide.pdf
+For more detailed information, feel free to read the [neuPrint User Guide](https://neuprint.janelia.org/public/neuprintuserguide.pdf).
 
 ## Create a neuPrint Account 
-Installing neuPrint isn't enough. You need to make a neuPrint accounf, an authentication token, the URL of the neuPrint server, and the name of the dataset you want to query. 
+Installing neuPrint isn't enough. You need to make a neuPrint account, an authentication token, the URL of the neuPrint server, and the name of the dataset you want to query. 
 
-You will need to have a Google account. So using your google account go ahead and login to neuprint: https://neuprint.janelia.org.
+You will need to have a Google account. So using your Google Account go ahead and login to [neuPrint](https://neuprint.janelia.org).
 
 ## Connecting to a neuPrint Server
 
@@ -68,7 +67,8 @@ For example:
 male-cns:v1.0
 ```
 
-Think of a dataset as a specific version of a connectome. Different datasets may represent different brain regions, species, or releases. This one is that of a male CNS connectome. v1.0 is the version we are using. Its good practice to go back and see if there is an update sp you use the righ tone. 
+Think of a dataset as a specific version of a connectome. Different datasets may represent different brain regions, species, or releases. The dataset we are using is the **male CNS connectome**, and **v1.0** is the version used in this competition. It is good practice to check whether a newer dataset version is available before starting your analysis, so that you are working with the most up-to-date version.
+
 
 #### 3. Authentication token
 
@@ -82,13 +82,19 @@ You can think of the token as a **digital key** that unlocks access to the neuPr
 >
 > Keep your authentication token private. Anyone with your token may be able to access neuPrint using your account. You get the token by going the neuPrint webbrowser. Click on the upper right corner (see image below). There you will find your unique neuPrint token. 
 
+<div style="text-align: center;">
+
 :::{figure} ../static/token-screenshot.png
 :alt: neuPrint Token
 :width: 500px
 
-Figure 1: Click on the upper right corner for account. Three you will find your token. 
+**Finding your neuPrint token:** click on the upper right corner for account (circled in red). Three you will find your token. 
 :::
+
+</div>
 
 Once you have these three pieces of information, you are ready to create your first `Client` object and begin querying connectome data!
 
-For more details checkout the documentation: https://connectome-neuprint.github.io/neuprint-python/docs/quickstart.html 
+For more details checkout the [neuPrint documentation](https://connectome-neuprint.github.io/neuprint-python/docs/quickstart.html).
+
+Now head over to the [neuPrint API Tutorial Notebook](../synapse_level_connectomics_flies/3b-neuprint_api_guide.ipynb) to get started!

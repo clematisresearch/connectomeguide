@@ -1,16 +1,10 @@
 ---
-title: Guiding Research Questions (GUI)
+title: gui qns
 authors:
   - name:
-      given: Caleb
-      family: Allen
+      given: Harper
+      family: Clark
 ---
 
-# Guiding Research Questions (GUI)
-
-Provide research questions that can be explored through the GUI.
-
-## Example questions
-
-- Mushroom Body / Memory
-- Individual Variability
+# gui qns 
+Outline the two learning tracks available in this section.

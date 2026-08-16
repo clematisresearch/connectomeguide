@@ -29,11 +29,8 @@ project:
         - file: synapse_level_connectomics_flies/4a-neuprint_gui_guide.md
         - file: synapse_level_connectomics_flies/3a-neuprint_api_guide.md
         - file: synapse_level_connectomics_flies/3b-neuprint_api_guide.ipynb
-        - file: synapse_level_connectomics_flies/guiding_research_questions_gui.md
         - file: synapse_level_connectomics_flies/guiding_research_questions_api.md
-          children:
-            - file: synapse_level_connectomics_flies/guiding_research_questions_api/mushroom_body_memory.md
-            - file: synapse_level_connectomics_flies/guiding_research_questions_api/individual_variability.md
+        - file: synapse_level_connectomics_flies/guiding_research_questions_gui.md
         - file: synapse_level_connectomics_flies/video_submission_guide.md
         - file: synapse_level_connectomics_flies/written_submission_guide.md
     - file: macroscale_connectomics_humans/index.md
