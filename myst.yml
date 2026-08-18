@@ -67,6 +67,10 @@ project:
         - file: guide_to_becoming_a_scientist/2_reading_scientific_papers.md
         - file: guide_to_becoming_a_scientist/3_finding_research_overview.md
         - file: guide_to_becoming_a_scientist/4_finding_your_first_research.md
+        - file: guide_to_becoming_a_scientist/5_research_and_your_next_steps.md
+          children:
+            - file: guide_to_becoming_a_scientist/5a_highschool_next_steps.md
+            - file: guide_to_becoming_a_scientist/5b_undergrad_next_steps.md
     - file: past_competition_resources/index.md
       children:
         - file: past_competition_resources/flycomp2025.md
