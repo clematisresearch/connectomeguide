@@ -158,13 +158,13 @@ Notice that **synapses** and **connections** are not quite the same thing.
 
 A presynaptic release site can contact multiple postsynaptic partners. Because of this, the number of anatomical connections does not have to equal the number of presynaptic and postsynaptic sites.
 
-```{figure} ../static/celltype-explorer-7-synapses-vs-connections.png
+<!-- ```{figure} ../static/celltype-explorer-7-synapses-vs-connections.png
 :alt: Diagram illustrating the difference between synapses and anatomical connections
 :width: 750px
 :align: center
 
 **Figure 7: Synapses versus connections.** In the simplified example on the left, one presynaptic site contacts one postsynaptic neuron, giving **one synapse and one anatomical connection**. On the right, one presynaptic site contacts three postsynaptic neurons, giving **one presynaptic site but three anatomical connections**. This illustrates why the number of synaptic sites and the number of connections in a connectome do not necessarily match. Figure generated using OpenAI generative AI and verified by the authors for accuracy.
-```
+``` -->
 
 From the table above the image, you will also see values for the **right** and **left** neurons and a **log ratio** describing how balanced the values are between the two sides. For this introductory tutorial, you do not need to calculate or interpret the log ratio in detail. Values near zero generally indicate that the two sides are relatively balanced.
 
@@ -458,16 +458,6 @@ For `LHPV10d1`, the table shows:
 * `CV = 0.0`
 
 So `LHPV10d1` is an **upstream partner** of AL-MBDL1. Its neurons are predicted to use **acetylcholine (ACh)**, and connections from this cell type account for about **5.6% of the input connectivity** received by AL-MBDL1.
-
-:::{warning}
-Be careful with the **#** column.
-
-The Cell Type Explorer defines **#** as the **cell-type count of the connected partner** used in the connectivity table. It does **not necessarily mean the number of neurons of that type that directly connect to the cell type you are exploring**.
-
-For example, try sorting the `#` by descending order. For `ORN_DM1`, the table shows **# = 37**. You should therefore not read this simply as “37 ORN_DM1 neurons connect to AL-MBDL1.”
-
-The more important columns for understanding the connection are **conns**, which reports the number of synaptic connections per target neuron, and **% In**, which reports what percentage of the target cell type's total input connectivity comes from that partner.
-:::
 
 
 ### Exploring the Data (Example)

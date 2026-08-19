@@ -53,7 +53,7 @@ Sapolnach is a PhD student and Rhodes Scholar at the University of Oxford. His r
 :align: left
 ```
 
-Aarushi is a graduate student and researcher in connectomics and neuroscience. Her research focuses on using connectomics to explore neural connectivity and circuit computation in the *Drosophila* visual system and brain. As Research Lead, she co-designed the scientific workshops and activities for the competition and supported participants throughout their research journey.
+Aarushi is a graduate student and researcher in connectomics and neuroscience. Her research focuses on using connectomics to explore neural connectivity and circuit computation in the *Drosophila* brain. As Research Lead, she co-designed the scientific workshops and activities for the competition and supported participants throughout their research journey.
 
 ---
 

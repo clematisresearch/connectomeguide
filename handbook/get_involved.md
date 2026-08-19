@@ -123,28 +123,6 @@ If you or your institution are interested in collaborating, please reach out to 
 
 ## 6. Monetary Sponsors & Sponsorship Tiers
 
-Sponsorship support directly funds **student prize awards, computational infrastructure, and micro-grants** for young researchers—both for the current competition cycle and future years.
-
-We offer tiered recognition packages to highlight our sponsors' commitment to open science and education:
-
-| Benefit / Deliverable | **Gold Sponsor**<br>($1,500+ CAD) | **Silver Sponsor**<br>($750 CAD) | **Bronze Sponsor**<br>($250 CAD) |
-| :--- | :---: | :---: | :---: |
-| **Logo on Competition Website Header** | Yes | — | — |
-| **Logo on First Page of Official Infographics** | Most Prominent (Equal to Hosts) | Prominent (~60% scale) | Directory Listing |
-| **Global Mailing List Inclusion (1,000+ members)** | Every Email Blast | Regular Newsletters | Selected Mentions |
-| **Logo on Workshop Slide Footers** | Every Workshop Slide | Opening / Closing Slides | Closing Slide |
-| **Verbal Acknowledgment in Webinars & Videos** | Yes (Dedicated Slide) | Yes | Yes |
-| **Named / Customized Competition Prize** | Yes (e.g., "[Sponsor] Prize") | — | — |
-| **Sponsored Workshop / Email Feature** | Yes | — | — |
-| **Promotional Materials via Partner Clubs** | Yes | Yes | Directory |
-| **Discord Sponsor Role & Channel Feature** | Dedicated Announcement | Role & Recognition | Role Recognition |
-| **Official Sponsor Certificate & Plaque** | Yes | Yes | Yes |
-
-To discuss customized sponsorship packages or contribute to our student prize pool, please contact our team at `clematis.reh@gmail.com`.
-
-
-## 6. Monetary Sponsors & Sponsorship Tiers
-
 The **2026–2027 Connectome Research Competition** is a long-term, fully online initiative giving high school and undergraduate students around the world the opportunity to engage with real neuroscience datasets, computational tools, and open research.
 
 Sponsorship directly supports **student prizes, computational infrastructure, educational resources, workshops, and research micro-grants**—both during the current competition cycle and in the continued development of future Clematis research programs.

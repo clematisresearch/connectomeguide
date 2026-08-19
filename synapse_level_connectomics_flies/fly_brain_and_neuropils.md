@@ -181,8 +181,8 @@ So far, we have looked at the **regions** through which visual information trave
 
 The neurons in the fly's optic lobe can be grouped into four main categories (Figure 4):
 
-* **Optic Lobe Intrinsic Neurons** remain within a single optic lobe neuropil.
-* **Optic Lobe Connecting Neurons** connect different neuropils within the optic lobe.
+* **Optic Lobe Intrinsic Neurons**: Their synapses are confined within a single optic lobe neuropil.
+* **Optic Lobe Connecting Neurons**: Their synapses are in two different neuropils.
 * **Visual Projection Neurons** carry visual information from the optic lobe to the **central brain**.
 * **Visual Centrifugal Neurons** travel in the opposite direction, carrying signals from the **central brain back to the optic lobe**.
 

@@ -23,13 +23,13 @@ To make sense of these data, scientists around the world have developed powerful
 
 There are many tools available, but for this competition it is useful to think about them in three main categories:
 
-### 1. Find Neurons and Cell Types — Cell Type Explorer
+### 1. Find Neurons and Cell Types: Cell Type Explorer
 
 The [**Drosophila Male CNS Cell Type Explorer**](https://reiserlab.github.io/celltype-explorer-drosophila-male-cns/) provides a starting point for exploring the different **cell types** found in the male CNS connectome.
 
 You can use it to search and browse cell types and begin investigating the neurons that belong to them.
 
-### 2. See Neurons in 3D — Neuroglancer
+### 2. See Neurons in 3D: Neuroglancer
 
 Knowing that a neuron exists is one thing. Seeing its structure inside the nervous system is another!
 
@@ -37,7 +37,7 @@ Knowing that a neuron exists is one thing. Seeing its structure inside the nervo
 
 You will often encounter Neuroglancer **embedded within other connectome tools**, including the Cell Type Explorer and neuPrint, allowing you to move directly from information about a neuron to its 3D anatomy.
 
-### 3. Explore Neural Connections — neuPrint
+### 3. Explore Neural Connections: neuPrint
 
 A connectome becomes especially powerful when we start asking **who connects to whom**.
 
