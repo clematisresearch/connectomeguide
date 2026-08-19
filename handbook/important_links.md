@@ -28,7 +28,7 @@ This directory brings together key platforms, portals, datasets, software packag
 ### Project Submission Forms
 * **Track 1 (Flies) Written Report Submission:** [Google Form for Track 1](https://forms.gle/zny6FE7PEEmzcbQB7)
 * **Track 2 (Humans) Written Report Submission:** [Google Form for Track 2](https://forms.gle/cgHzUadfhcTh45xK7)
-* **Video Submissions:** Post your video link on the Clematis Discord in the `#Connectome-2026-2027` or `#Connectome2026` channel.
+* **Video Submissions:** Post your video link on the Clematis Discord in the `#Connectome-2026-2027` channel.
 
 ---
 
@@ -45,8 +45,6 @@ This directory brings together key platforms, portals, datasets, software packag
   *3D volumetric and skeleton visualizer for reconstructed neurons and brain regions.*
 * **Virtual Fly Brain (VFB):** [https://www.virtualflybrain.org/](https://www.virtualflybrain.org/)  
   *Integrated knowledgebase linking fly neuroanatomy, cell types, driver lines, and published literature.*
-* **FlyWire Whole-Brain Portal:** [https://flywire.ai/](https://flywire.ai/)  
-  *Web platform for exploring the female whole-brain Drosophila connectome.*
 * **Janelia FlyEM Project Team:** [https://www.janelia.org/project-team/flyem](https://www.janelia.org/project-team/flyem)  
   *Home of high-resolution electron microscopy connectome reconstructions.*
 
@@ -64,17 +62,20 @@ This directory brings together key platforms, portals, datasets, software packag
 * **Whole-Brain Drosophila Connectome:** [Dorkenwald et al., 2024 (Nature)](https://www.nature.com/articles/s41586-024-07558-y) — *Neuronal wiring diagram of an adult brain.*
 * **Standard Insect Brain Nomenclature:** [Ito et al., 2014 (Neuron)](https://doi.org/10.1016/j.neuron.2013.12.017) — *A systematic nomenclature for the insect brain.*
 * **Characterizing Neuronal Cell Types:** [Zeng, 2022 (Cell)](https://www.cell.com/cell/fulltext/S0092-8674%2822%2900783-8) — *What is a cell type and how do we characterize it?*
+* **Adult *Drosophila* Brain Structure & Function Review:** [Current Research in Insect Science (2025)](https://www.sciencedirect.com/science/article/pii/S2666515825000083#sec0003) — *The Drosophila adult brain: short overview of structure, function, and resources.*
 
 ---
 
 ## 3. Track 2: Human Neuroimaging & Macroscale Connectomics Resources
 
-### Datasets & Portals
+### Datasets, Parcellations, & Key Papers
 * **LEMON Dataset Paper:** [Babayan et al., 2019 (Scientific Data)](https://www.nature.com/articles/sdata2018308) — *A mind-brain-body dataset of MRI, EEG, cognition, emotion, and peripheral physiology in young and old humans.*
 * **OpenNeuro LEMON Dataset Portal:** [OpenNeuro ds000221](https://openneuro.org/datasets/ds000221)  
   *Direct access to raw and preprocessed functional/structural MRI datasets.*
-* **Human Connectome Project (HCP):** [https://www.humanconnectome.org/](https://www.humanconnectome.org/)  
-  *Open-access high-resolution human connectome datasets and pipelines.*
+* **Schaefer Cortical Parcellation Paper:** [Schaefer et al., 2018 (Cerebral Cortex)](https://doi.org/10.1093/cercor/bhx179) — *Local-Global Parcellation of the Human Cerebral Cortex from Intrinsic Functional Connectivity MRI.*
+* **Yeo 7 & 17 Resting-State Networks Paper:** [Yeo et al., 2011 (Journal of Neurophysiology)](https://doi.org/10.1152/jn.00338.2011) — *The organization of the human cerebral cortex estimated by intrinsic functional connectivity.*
+* **Complex Brain Networks & Graph Theory in Neuroscience:** [Bullmore & Sporns, 2009 (Nature Reviews Neuroscience)](https://doi.org/10.1038/nrn2575) — *Complex brain networks: graph theoretical analysis of structural and functional systems.*
+* **Graph Theory Methods: Applications in Brain Networks:** [Sporns, 2018 (Dialogues in Clinical Neuroscience)](https://doi.org/10.31887/DCNS.2018.20.2/osporns) — *Graph theory methods: applications in brain networks.*
 
 ### Python Neuroimaging & Graph Analysis Packages
 * **Nilearn Documentation:** [https://nilearn.github.io/stable/index.html](https://nilearn.github.io/stable/index.html)  
@@ -83,11 +84,6 @@ This directory brings together key platforms, portals, datasets, software packag
   *Access a catalogue of neuroimaging file formats (NIfTI, GIFTI, CIFTI).*
 * **NetworkX Documentation:** [https://networkx.org/documentation/stable/](https://networkx.org/documentation/stable/)  
   *Creation, manipulation, and study of the structure, dynamics, and functions of complex networks.*
-* **Brain Connectivity Toolbox (BCT / `bctpy`):** [bctpy Python Port](https://github.com/aestrivex/bctpy)  
-  *Graph-theoretic analysis of complex brain networks.*
-* **Schaefer Cortical Parcellation:** [CBIG Local-Global Parcellation Repository](https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal)  
-  *Standard 100-, 200-, and 400-area multi-resolution resting-state functional parcellations.*
-* **Yeo 7 & 17 Resting-State Networks:** [Cortical Parcellation Overview](https://surfer.nmr.mgh.harvard.edu/fswiki/CorticalParcellation_Yeo2011)
 
 ---
 
@@ -109,5 +105,17 @@ This directory brings together key platforms, portals, datasets, software packag
   *Free textbook covering NumPy, Pandas, Matplotlib, and Scikit-Learn.*
 * **Data Carpentry (Python for Social Scientists):** [https://datacarpentry.github.io/python-socialsci/](https://datacarpentry.github.io/python-socialsci/)  
   *Practical data workflows and analysis for beginners.*
-* **Kaggle Learn Micro-Courses:** [https://www.kaggle.com/learn](https://www.kaggle.com/learn)  
-  *Hands-on interactive 3-hour courses on Pandas, Data Visualization, and Intro to Machine Learning.*
+
+### Kaggle Learn Micro-Courses
+* **Pandas:** [https://www.kaggle.com/learn/pandas](https://www.kaggle.com/learn/pandas)  
+  *Extracting, indexing, grouping, and transforming tabular datasets.*
+* **Data Visualization:** [https://www.kaggle.com/learn/data-visualization](https://www.kaggle.com/learn/data-visualization)  
+  *Creating bar charts, scatter plots, heatmaps, and distributions with Seaborn and Matplotlib.*
+* **Intro to Machine Learning:** [https://www.kaggle.com/learn/intro-to-machine-learning](https://www.kaggle.com/learn/intro-to-machine-learning)  
+  *Exploring data, model validation, decision trees, and random forests.*
+* **Intermediate Machine Learning:** [https://www.kaggle.com/learn/intermediate-machine-learning](https://www.kaggle.com/learn/intermediate-machine-learning)  
+  *Handling missing values, categorical variables, cross-validation, data leakage, and XGBoost.*
+* **Machine Learning Explainability:** [https://www.kaggle.com/learn/machine-learning-explainability](https://www.kaggle.com/learn/machine-learning-explainability)  
+  *Permutation importance, partial dependence plots, and SHAP values.*
+* **Feature Engineering:** [https://www.kaggle.com/learn/feature-engineering](https://www.kaggle.com/learn/feature-engineering)  
+  *Mutual information, creating features, clustering, and PCA.*

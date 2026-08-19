@@ -436,7 +436,7 @@ In a connectome dataset, every reconstructed neuron needs a way to be uniquely i
 
 For example:
 
-`Body ID: 10001`
+`Body ID: 10378`
 
 Think of a Body ID like an **ID number for one particular neuron**. Two individual neurons may look very similar, but they will still have different Body IDs.
 
