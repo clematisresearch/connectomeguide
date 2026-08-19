@@ -77,7 +77,7 @@ You do not necessarily have to wait until someone gives you a position in a labo
 
 You can learn Python or R. You can learn statistics and data visualization. You can download publicly available scientific datasets. You can reproduce analyses from papers. You can learn to use open-source scientific software. You can put your code on GitHub. And, as your skills develop, you can begin asking and investigating your **own scientific questions using real data**.
 
-Connectome2026 itself is built around this idea. Brain datasets, from synapse-level connectomes to macroscale human neuroimaging datasets, give students opportunities to work with real neuroscience data without needing to own a microscope, operate an MRI scanner, maintain an animal facility, or already belong to a research laboratory.
+Connectome 2026–2027 itself is built around this idea. Brain datasets, from synapse-level connectomes to macroscale human neuroimaging datasets, give students opportunities to work with real neuroscience data without needing to own a microscope, operate an MRI scanner, maintain an animal facility, or already belong to a research laboratory.
 
 These independent experiences do not completely replace being mentored by experienced scientists or working within a research group. As we discussed earlier, learning to become a scientist is partly an **apprenticeship**.
 
@@ -103,13 +103,13 @@ In the following sections, we will give you some **practical tips and strategies
 
 Some advice will apply broadly. Other suggestions will be more specific to where you are in your education—for example, whether you are in high school, an undergraduate, or a recent graduate.
 
-We will also talk about how you can make the most of **Connectome2026 itself**. The competition is not only an opportunity to work with real neuroscience data, but also a chance to develop skills, create something you can show to future mentors or programmes, and practise communicating your scientific work.
+We will also talk about how you can make the most of **Connectome 2026–2027 itself**. The competition is not only an opportunity to work with real neuroscience data, but also a chance to develop skills, create something you can show to future mentors or programmes, and practise communicating your scientific work.
 
 At the same time, we do not want you to think that research experience has to come from one particular programme or laboratory.
 
 As we discussed earlier, the growth of **open science** gives you access to datasets, software, code, papers, lectures, and other resources that you can use to keep learning and creating your own opportunities. These resources can complement formal research experiences and, for some students, may be the main way they are able to begin.
 
-So, as you go through the following sections, think about how you can combine the opportunities that are available to you: **formal research experiences, competitions such as Connectome2026, and your own independent learning and projects**.
+So, as you go through the following sections, think about how you can combine the opportunities that are available to you: **formal research experiences, competitions such as Connectome 2026–2027, and your own independent learning and projects**.
 
 You do not need to have access to every opportunity.
 

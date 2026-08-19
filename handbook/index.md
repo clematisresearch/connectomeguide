@@ -11,13 +11,13 @@ authors:
 
 # Handbook
 
-# Welcome to the Connectome2026 Handbook
+# Welcome to the Connectome 2026–2027 Handbook
 
-This section contains all the information you need to participate in the **2026 Connectomics Research Competition**, including competition rules, eligibility requirements, submission guidelines, awards, important dates, and other essential resources.
+This section contains all the information you need to participate in the **2026–2027 Connectomics Research Competition**, including competition rules, eligibility requirements, submission guidelines, awards, important dates, and other essential resources.
 
 We strongly recommend reading all sections of this handbook carefully before beginning your project. Doing so will help ensure that you understand the competition requirements, maximize your learning experience, and avoid missing important deadlines or submission criteria.
 
-If you have not yet read the main introduction page, **2026 Connectomics Research Competition**, we recommend starting there first. It provides an overview of the scientific motivation behind the competition, the datasets you will explore, and the learning resources available to support your journey.
+If you have not yet read the main introduction page, **2026–2027 Connectomics Research Competition**, we recommend starting there first. It provides an overview of the scientific motivation behind the competition, the datasets you will explore, and the learning resources available to support your journey.
 
 ---
 
@@ -33,7 +33,7 @@ Information about who is eligible to participate in the competition.
 
 ### [How to Participate](how_to_participate.md)
 
-A step-by-step guide explaining how to participate in Connectome2026 and what is required to receive a participation certificate and/or be considered for prizes and awards.
+A step-by-step guide explaining how to participate in Connectome 2026–2027 and what is required to receive a participation certificate and/or be considered for prizes and awards.
 
 ### [Submitting Your Entry](submitting_your_entry.md)
 
@@ -61,8 +61,8 @@ A collection of useful links, datasets, resources, submission forms, communicati
 
 ### [Organizers and Partners](organizers_and_partners.md)
 
-Information about the researchers, faculty members, organizations, and volunteers who have made Connectome2026 possible.
+Information about the researchers, faculty members, organizations, and volunteers who have made Connectome 2026–2027 possible.
 
 ---
 
-We are excited to have you join us in exploring the brain with us! Whether this is your first research experience or one of many, we hope Connectome2026 provides an opportunity to learn, discover, and contribute to our understanding of the brain.
+We are excited to have you join us in exploring the brain with us! Whether this is your first research experience or one of many, we hope Connectome 2026–2027 provides an opportunity to learn, discover, and contribute to our understanding of the brain.

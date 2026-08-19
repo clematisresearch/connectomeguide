@@ -9,9 +9,9 @@ authors:
       - University of Toronto / University of Cambridge
 ---
 
-# Competition Overview: Connectome2026
+# Competition Overview: Connectome 2026–2027
 
-Welcome to the 2026 Connectomics Research Competition (Connectome2026).
+Welcome to the 2026–2027 Connectomics Research Competition (Connectome 2026–2027).
 
 The brain is one of the most complex systems known in nature. To understand how it works, neuroscientists investigate the brain across multiple levels of analysis—from individual neurons and synapses, to neural circuits, to large-scale networks spanning the entire brain.
 
@@ -19,7 +19,7 @@ A central goal of neuroscience is to understand how the brain's physical structu
 
 At the heart of these questions lies the field of **connectomics**: the study of the brain's wiring and organizational principles. Connectomics seeks to map and understand both the **structural connections** that physically link neurons and brain regions, and the **functional connections** that emerge when different parts of the brain coordinate their activity.
 
-In Connectome2026, you will work with real scientific datasets and modern research tools to explore these questions firsthand. You will analyze the cutting-edge datasets used by researchers around the world and investigate open questions about how brains are organized and how they function.
+In Connectome 2026–2027, you will work with real scientific datasets and modern research tools to explore these questions firsthand. You will analyze the cutting-edge datasets used by researchers around the world and investigate open questions about how brains are organized and how they function.
 
 # Competition Tracks
 

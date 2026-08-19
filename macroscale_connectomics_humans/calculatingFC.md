@@ -196,4 +196,4 @@ precision_measure = ConnectivityMeasure(
 
 ## Next Steps:
 
-For Connectome2026, we will primarily begin with **correlation-based functional connectivity**, since it is intuitive, widely used, and forms the foundation for many subsequent analyses. The functional connectivity will then be used to for our graph theoretical analysis. We can then use FC and graph theoretical measures to link brain and behavior! 
+For Connectome 2026–2027, we will primarily begin with **correlation-based functional connectivity**, since it is intuitive, widely used, and forms the foundation for many subsequent analyses. The functional connectivity will then be used to for our graph theoretical analysis. We can then use FC and graph theoretical measures to link brain and behavior! 

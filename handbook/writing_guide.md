@@ -52,7 +52,7 @@ If you need to write an abstract (i.e., for advanced level submissions) we recom
 
 # Formatting Requirements
 
-There are no strict formatting requirements for written reports submitted to Connectome2026.
+There are no strict formatting requirements for written reports submitted to Connectome 2026–2027.
 
 Participants are welcome to use any formatting style, provided that the report is **clear, readable, well-organized, and consistent throughout**.
 

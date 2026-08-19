@@ -11,14 +11,14 @@ authors:
 
 # How to Participate
 
-Participating in Connectome2026 is simple. Follow the steps below to make the most of this opportunity to explore neuroscience, connectomics, and scientific research.
+Participating in Connectome 2026–2027 is simple. Follow the steps below to make the most of this opportunity to explore neuroscience, connectomics, and scientific research.
 
 ## 1. Explore the Competition Resources
 
 We strongly recommend beginning with the following sections:
 
-- [Handbook](../handbook/index) (you are here)
-- [Track 1: Synapse-Level Connectomics (Flies)](../synapse_level_connectomics_flies/index.md)
+- [Handbook](../handbook/index.md) (you are here)
+- [Track 1: Synapse-Level Connectomics (Flies)](../synapse_level_connectomics_flies/1-index.md)
 - [Track 2: Macroscale Connectomics (Humans)](../macroscale_connectomics_humans/index.md)
 
 These resources introduce the scientific background, datasets, tools, research questions, and learning materials that will support your participation throughout the competition.
@@ -58,9 +58,9 @@ The Clematis Discord will be used to:
 * Facilitate community engagement with fellow participants from around the world
 * Submit competition entries and supporting materials
 
-Another way to stay informed throughout the competition is through our [**Connectome2026 Mailing List**](https://forms.gle/xfE4FsfeNCFg1JGe8). 
+Another way to stay informed throughout the competition is through our [**Connectome 2026–2027 Mailing List**](https://forms.gle/xfE4FsfeNCFg1JGe8). 
 
-Subscribe to stay in the loop about the **2026 Connectomics Research Competition** and receive competition updates, deadline reminders, workshop announcements, and helpful resources as you explore the connectome and prepare your submission.
+Subscribe to stay in the loop about the **2026–2027 Connectomics Research Competition** and receive competition updates, deadline reminders, workshop announcements, and helpful resources as you explore the connectome and prepare your submission.
 
 * **Discord:** [https://tinyurl.com/discordclematis](https://discord.com/invite/MFFbJQFtvW)
 * **Mailing List:** [https://tinyurl.com/Connectome2026Mail](https://forms.gle/xfE4FsfeNCFg1JGe8)
@@ -81,8 +81,8 @@ This section explains the required deliverables, submission process, formatting 
 
 To maximize your learning experience and prepare a strong submission, we recommend reviewing:
 
-* [Selection Criteria](selection_criteria)
-* [Important Dates](important_dates)
+* [Selection Criteria](selection_criteria.md)
+* [Important Dates](important_dates.md)
 
 These sections describe how projects will be assessed and highlight the key milestones throughout the competition.
 
@@ -113,5 +113,6 @@ To be considered for awards and cash prizes, participants must:
 
 ---
 
-We encourage participants to approach the competition with curiosity, creativity, and a willingness to learn. Whether this is your first research project or one of many, Connectome2026 provides an opportunity to engage with real scientific data, learn from researchers, and contribute to exciting questions about how the brain works.
+We encourage participants to approach the competition with curiosity, creativity, and a willingness to learn. Whether this is your first research project or one of many, Connectome 2026–2027 provides an opportunity to engage with real scientific data, learn from researchers, and contribute to exciting questions about how the brain works.
+
 

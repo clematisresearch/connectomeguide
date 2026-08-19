@@ -1,14 +1,17 @@
 ---
 title: Generative AI
 authors:
-  - name:
-      given: Isabella
-      family: Martinez
+  - name: Sapolnach Prompiengchai
+    affiliations:
+      - University of Oxford
+  - name: Aarushi Vardhan
+    affiliations:
+      - University of Toronto / University of Cambridge
 ---
 
 # GenAI Policy
 
-Connectome2026 recognizes that generative artificial intelligence (GenAI) tools are becoming increasingly common in education, research, and industry. Participants are welcome to use generative AI tools to support their learning and research process, provided that such use is disclosed appropriately and does not replace the participant's own scientific thinking and analysis.
+Connectome 2026–2027 recognizes that generative artificial intelligence (GenAI) tools are becoming increasingly common in education, research, and industry. Participants are welcome to use generative AI tools to support their learning and research process, provided that such use is disclosed appropriately and does not replace the participant's own scientific thinking and analysis.
 
 Participants remain **fully** responsible for the accuracy, integrity, and originality of all submitted work.
 

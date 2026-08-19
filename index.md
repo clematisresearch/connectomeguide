@@ -1,5 +1,5 @@
 ---
-title: 2026 Connectomics Research Competition
+title: 2026–2027 Connectomics Research Competition
 authors:
   - name: Sapolnach Prompiengchai
     affiliations:
@@ -9,7 +9,7 @@ authors:
       - University of Toronto / University of Cambridge
 ---
 
-# Welcome to the 2026 Connectomics Research Competition!
+# Welcome to the 2026–2027 Connectomics Research Competition!
 
 For thousands of years, humanity has wrestled with one of the deepest questions in science and philosophy:
 
@@ -25,7 +25,7 @@ Today, however, we are living through an extraordinary scientific revolution.
 
 In this competition, students will explore the brain from two complementary perspectives.
 
-At the microscopic scale, you will investigate one of the most remarkable scientific achievements of our time: the complete synapse-resolution connectome of the adult *Drosophila melanogaster* (fruit fly) brain. This connectome contains over 160,000 neurons and approximately 170 million synaptic connections, making it the largest complete wiring diagram of an adult animal brain ever reconstructed. Despite its tiny size, the fruit fly is capable of sophisticated behaviors including sensory perception, navigation, learning, memory, and decision-making, making it one of the most powerful model organisms in neuroscience.
+At the microscopic scale, you will investigate one of the most remarkable scientific achievements of our time: the complete synapse-resolution connectome of the adult *Drosophila melanogaster* (fruit fly) central nervous system. This connectome contains over 160,000 neurons and tens of millions of synaptic connections, making it the largest complete wiring diagram of an adult animal nervous system ever reconstructed. Despite its tiny size, the fruit fly is capable of sophisticated behaviors including sensory perception, navigation, learning, memory, and decision-making, making it one of the most powerful model organisms in neuroscience.
 
 Using cutting-edge visualization and analysis tools developed by leading researchers in the field, you will be able to navigate beautiful three-dimensional neurons, trace neural pathways, investigate connectivity patterns, and ask your own research questions about how information flows through biological circuits. You will be using the dataset such as the one shown in the video below!
 
@@ -43,7 +43,7 @@ Together, these two perspectives provide a unique opportunity to study the brain
 
 ## Learn From Researchers at the Frontiers of Neuroscience
 
-Connectome2026 is organized in partnership with researchers working at the forefront of connectomics, computational neuroscience, and neuroimaging.
+Connectome 2026–2027 is organized in partnership with researchers working at the forefront of connectomics, computational neuroscience, and neuroimaging.
 
 The competition is chaired by graduate researchers affiliated with the **University of Oxford** and the **University of Toronto**, and is hosted in partnership with faculty members whose research has helped advance our understanding of neural circuits, cognition, and brain connectivity, including **Prof. Eyal Gruntman**, **Prof. Ina Anreiter**, **Prof. Morten Kringelbach**, and **Prof. Steve Joordens**.
 
@@ -57,7 +57,7 @@ We have carefully designed the competition to be accessible to students from div
 
 We deeply value curiosity, persistence, and a willingness to learn. Through this experience, you will gain exposure to modern neuroscience, data science, programming, scientific communication, and research methodology—skills that are valuable not only in academia, but across medicine, technology, engineering, business, and many other fields.
 
-We hope that Connectome2026 serves not only as a competition, but as a launchpad for future scientists, innovators, and problem-solvers.
+We hope that Connectome 2026–2027 serves not only as a competition, but as a launchpad for future scientists, innovators, and problem-solvers.
 
 # What You'll Find in This Resource
 
@@ -67,7 +67,7 @@ To support your journey, we have created a comprehensive learning resource organ
 
 Everything you need to know about the competition, including rules, timelines, deliverables, submission guidelines, judging criteria, awards, and frequently asked questions.
 
-## [2. Synapse-Level Connectomics (Flies)](synapse_level_connectomics_flies/index.md)
+## [2. Synapse-Level Connectomics (Flies)](synapse_level_connectomics_flies/1-index.md)
 
 A guide to exploring one of the most detailed maps of a brain ever created.
 
@@ -103,4 +103,4 @@ This section provides practical advice on how to make the most of your experienc
 
 The brain is often described as one of the most complex objects known in the universe. With recent advances in neuroscience, students can now directly explore its wiring, analyze its activity, and contribute to the same scientific questions being pursued by researchers around the world.
 
-**Welcome to Connectome2026. The next discovery could be yours.**
+**Welcome to Connectome 2026–2027. The next discovery could be yours.**

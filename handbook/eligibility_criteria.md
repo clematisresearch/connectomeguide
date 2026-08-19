@@ -11,7 +11,7 @@ authors:
 
 # Prize Categories
 
-The 2026 Connectomics Research Competition is open to students worldwide and features two prize categories.
+The 2026–2027 Connectomics Research Competition is open to students worldwide and features two prize categories.
 
 ## High School Category
 
@@ -33,4 +33,5 @@ Students enrolled in undergraduate-entry professional programs (e.g., MBBS or eq
 However, participants who have already completed an undergraduate degree before October 31, 2026—including those enrolled in graduate-entry medicine, graduate-entry law, master's programs, PhD programs, or other postgraduate programs—are not eligible for undergraduate prizes.
 
 Everyone, regardless of their age and educational level, is welcome to use our resource and submit for participation certificates!
+
 

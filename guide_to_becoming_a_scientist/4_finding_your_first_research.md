@@ -127,7 +127,7 @@ Your email could look something like this:
 >
 > I am excited by your research using fMRI to study how our brain, and the hippocampus in particular, binds different types of stimuli to form coherent memory representations. [assuming they do this kind of research]
 >
-> I also have a basic programming background in Python. Through Connectome2026 (a connectomics research competition), I have explored the Mind-Brain-Body fMRI dataset of 200+ healthy participants and used Nilearn and NetworkX to investigate how brain networks may differ with age, which I hope would help me grasp neuroimaging analysis in your lab more quickly.
+> I also have a basic programming background in Python. Through Connectome 2026–2027 (a connectomics research competition), I have explored the Mind-Brain-Body fMRI dataset of 200+ healthy participants and used Nilearn and NetworkX to investigate how brain networks may differ with age, which I hope would help me grasp neuroimaging analysis in your lab more quickly.
 >
 > I have attached my transcript and CV to this email.
 >
@@ -137,7 +137,7 @@ Your email could look something like this:
 
 As you can see, **short and concise**.
 
-And the Connectome2026 sentence is optional. Although you might have no previous research experience at all, there is usually still *something* relevant you can mention. Perhaps you have taken a statistics course. Perhaps you have started learning Python. Perhaps you read an introductory psychology textbook and have begun reading papers about memory. Perhaps you completed a relevant class project.
+And the Connectome 2026–2027 sentence is optional. Although you might have no previous research experience at all, there is usually still *something* relevant you can mention. Perhaps you have taken a statistics course. Perhaps you have started learning Python. Perhaps you read an introductory psychology textbook and have begun reading papers about memory. Perhaps you completed a relevant class project.
 
 So, in very simple terms, the email contains:
 
@@ -240,7 +240,7 @@ The professor has published *way too many papers*.
 
 Where do you even start?
 
-Let's take one of the faculty advisors for Connectome2026 as an example: **Professor Morten L. Kringelbach at Oxford**.
+Let's take one of the faculty advisors for Connectome 2026–2027 as an example: **Professor Morten L. Kringelbach at Oxford**.
 
 If you look through his recent publications and sort by year, you will see a very large number of papers published across 2025 and 2026.
 
@@ -262,7 +262,7 @@ Now I start looking for patterns.
 
 The first paper suggests an interest in modelling the brain using ideas that sound quite related to **physics**, such as turbulence and vortex interactions.
 
-The *Canary in the Mind* paper uses a large-scale dataset called HCP-BANDA to investigate the prediction of depression and anxiety using functional connectivity—something conceptually related to the kind of large-scale neuroimaging analysis you encounter in Connectome2026. The abstract also mentions a **whole-brain generative model**.
+The *Canary in the Mind* paper uses a large-scale dataset called HCP-BANDA to investigate the prediction of depression and anxiety using functional connectivity—something conceptually related to the kind of large-scale neuroimaging analysis you encounter in Connectome 2026–2027. The abstract also mentions a **whole-brain generative model**.
 
 Then I look at *Competitive interactions shape mammalian brain network dynamics and computation*. Its abstract says:
 
@@ -352,9 +352,9 @@ If you receive no response, it is also completely reasonable to **follow up once
 At the same time, do not wait around for one particular lab. **Reach out to multiple labs, continue reading and developing your skills, and keep applying.** Even an unsuccessful application can help you refine your interests, improve how you approach researchers, and become better prepared for the next opportunity.
 
 
-## Leveraging Connectome2026 and Public Datasets
+## Leveraging Connectome 2026–2027 and Public Datasets
 
-With Connectome2026, we are trying to open the door to **two very exciting areas that span very different scales of neuroscience: from synapse-level connectomics to macroscale connectomics of the human brain**.
+With Connectome 2026–2027, we are trying to open the door to **two very exciting areas that span very different scales of neuroscience: from synapse-level connectomics to macroscale connectomics of the human brain**.
 
 But we hope that what you take from the competition goes beyond connectomics itself.
 

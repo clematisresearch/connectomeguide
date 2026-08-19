@@ -1,11 +1,14 @@
 ---
 title: Neuroscience Guide
 authors:
-  - name:
-      given: Lily
-      family: Adams
+  - name: Sapolnach Prompiengchai
+    affiliations:
+      - University of Oxford
+  - name: Aarushi Vardhan
+    affiliations:
+      - University of Toronto / University of Cambridge
 ---
 
 # Neuroscience Guide
 
-General neuroscience background material.
+Coming soon ...

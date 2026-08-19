@@ -9,6 +9,8 @@ authors:
       - University of Toronto / University of Cambridge
 ---
 
+# Frequently Asked Questions
+
 Below are answers to some of the questions we are most frequently asked about the competition. If your question is not answered here, please contact us via Discord or email.
 
 ## Can I participate as part of a team?
@@ -27,7 +29,7 @@ That said, we strongly encourage participants to discuss ideas, ask questions, a
 
 Your category is determined by your educational status on **October 31, 2026**.
 
-If you have **not yet started** your undergraduate or post-secondary studies on or before **October 31, 2026**, you should participate in the **High School Category**, even if you will begin university later in 2026.
+If you have **not yet started** your undergraduate or post-secondary studies on or before **October 31, 2026**, you should participate in the **High School Category**, even if you will begin university later in 2026 or 2027.
 
 ---
 
@@ -73,18 +75,27 @@ If you are unsure which category applies to your situation, please contact us vi
 
 ---
 
-## Will participants receive a certificate?
+## Can I submit entries to both the Introductory and Advanced tracks, to both Fly and Human tracks, or submit more than one project?
 
-Yes. All participants who submit an eligible entry will receive a **Certificate of Participation**. Award recipients will additionally receive a **Certificate of Award and Recognition**, along with any prizes associated with their award.
+Yes. Participants are welcome to submit multiple entries—including submitting to both the Fly Connectomics (Track 1) and Human Connectomics (Track 2) tracks, or submitting projects at both the Introductory and Advanced levels—as long as each submission represents a distinct, significantly different research investigation.
+
+Each eligible submission will be evaluated independently. For prize and award consideration, your highest-scoring eligible entry will be used.
 
 ---
 
+## Will participants receive a certificate?
+
+Yes. Everyone is welcome to participate and submit an eligible entry, regardless of age or educational level. All participants who submit an eligible entry will receive a Certificate of Participation.
+Participants who meet the eligibility requirements for either the High School Category or Undergraduate Category will additionally be considered for the corresponding prizes.
+Award recipients will receive a Certificate of Award and Recognition, along with any prizes associated with their award.
+
+---
 
 ## Can I continue developing my project after the competition?
 
 Yes. Participants are welcome to continue developing their work after the competition. Depending on the nature and quality of the project, this may include expanding it into a research paper, preprint, journal article, conference presentation, portfolio project, or other scholarly work.
 
-If your work builds upon the competition resources, we kindly ask that you acknowledge and cite the Connectome2026 Github, the **competition handbook** (where appropriate), and any mentors or organisers (e.g., Track Chairs or Co-Chairs) who may have helped you. As with any research project, individuals who make significant scholarly contributions should be appropriately acknowledged or, where appropriate and with their agreement, included as co-authors. 
+If your work builds upon the competition resources, we kindly ask that you acknowledge and cite the Connectome 2026–2027 Github, the **competition handbook** (where appropriate), and any mentors or organisers (e.g., Track Chairs or Co-Chairs) who may have helped you. As with any research project, individuals who make significant scholarly contributions should be appropriately acknowledged or, where appropriate and with their agreement, included as co-authors. 
 
 ---
 

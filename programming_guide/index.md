@@ -251,5 +251,5 @@ That is not a sign that you are bad at programming. It is simply part of program
 
 Be patient with yourself, stay curious, and keep experimenting. Every concept you learn becomes another tool that allows you to ask bigger scientific questions and explore increasingly complex datasets.
 
-We hope this guide gives you not only the technical skills needed for Connectome2026, but also the confidence to continue learning long after you've finished these tutorials.
+We hope this guide gives you not only the technical skills needed for Connectome 2026–2027, but also the confidence to continue learning long after you've finished these tutorials.
 

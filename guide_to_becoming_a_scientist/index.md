@@ -90,7 +90,7 @@ You do not necessarily need to become a computational neuroscientist. You might 
 
 But as large-scale datasets become increasingly common, researchers across many areas of neuroscience will need to **use, analyse, interpret, or refer to computational data** at some point in their work.
 
-This is one reason why Connectome2026 introduces you to computational approaches at two very different scales: from **synapse-level connectomics to macroscale human brain networks**.
+This is one reason why Connectome 2026–2027 introduces you to computational approaches at two very different scales: from **synapse-level connectomics to macroscale human brain networks**.
 
 ## Where Can a Career in Neuroscience Take You?
 
@@ -175,9 +175,9 @@ You may also find that the opportunities immediately available to you do not per
 
 **That does not mean that there is nothing you can do.**
 
-Modern science provides more ways than ever to begin exploring research. Open datasets, open-source software, online scientific communities, publicly available lectures and courses, and research competitions such as Connectome2026 can allow you to start developing scientific skills even without immediate access to a traditional laboratory.
+Modern science provides more ways than ever to begin exploring research. Open datasets, open-source software, online scientific communities, publicly available lectures and courses, and research competitions such as Connectome 2026–2027 can allow you to start developing scientific skills even without immediate access to a traditional laboratory.
 
-Through Connectome2026, we also hope to raise awareness of just how much you can learn and explore from the comfort of your own home. By taking advantage of open science, freely available datasets, computational tools, and online resources, you can begin learning practical research skills, asking your own scientific questions, and building projects independently.
+Through Connectome 2026–2027, we also hope to raise awareness of just how much you can learn and explore from the comfort of your own home. By taking advantage of open science, freely available datasets, computational tools, and online resources, you can begin learning practical research skills, asking your own scientific questions, and building projects independently.
 
 These experiences do not completely replace being mentored by experienced researchers or working in a research laboratory. Like many other skills, learning to become a good scientist involves a form of apprenticeship: learning from people with more experience, observing how they approach scientific problems, receiving feedback, and gradually becoming a more independent researcher.
 

@@ -53,14 +53,17 @@ These awards recognize participants who demonstrate exceptional ability to commu
 
 ## Community Engagement Award
 
-This award recognizes a participant who has made an outstanding contribution to the Connectome2026 community through consistent engagement and initiative throughout the competition.
+This award recognizes a participant who has made an outstanding contribution to the Connectome 2026–2027 community through consistent engagement and initiative throughout the competition.
 
 Examples may include active participation in workshops, discussions, journal clubs, office hours, and Discord activities; helping fellow participants troubleshoot problems or answer questions; sharing useful resources; contributing thoughtful insights and discussions; promoting the competition through social media; and otherwise helping to foster an inclusive, supportive, and intellectually curious learning environment.
 
-The award celebrates participants who go above and beyond in supporting the broader community, inspiring others, and contributing to a positive and collaborative research culture
-
+The award celebrates participants who go above and beyond in supporting the broader community, inspiring others, and contributing to a positive and collaborative research culture.
 
 | Award                      |   Prize |
 | -------------------------- | ------: |
 | Community Engagement Award | CAD $50 |
 
+:::{important}
+### Ambassador Requirement
+To be considered for the **Community Engagement Award**, you must qualify as an official **Connectome Student Ambassador** at some point during the competition period. Please refer to [1. For Participants: Student Ambassador Program](get_involved.md#1-for-participants-student-ambassador-program) for details on engagement routes and how to apply.
+:::

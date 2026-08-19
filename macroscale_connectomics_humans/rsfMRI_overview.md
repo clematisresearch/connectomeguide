@@ -222,7 +222,7 @@ Another advantage of resting-state fMRI is its simplicity. Participants are not 
 
 ---
 
-# Resting-State fMRI and Connectome2026
+# Resting-State fMRI and Connectome 2026–2027
 
 In this competition, resting-state fMRI data serves as the foundation for understanding the human functional connectome.
 

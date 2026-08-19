@@ -13,7 +13,7 @@ authors:
 
 Submissions will be evaluated based on the quality of the participant's engagement with the competition, the strength of their scientific reasoning, the clarity of their communication, and the extent to which they make effective use of the provided datasets and tools.
 
-Because Connectome2026 is a learning-focused research competition, judges will value:
+Because Connectome 2026–2027 is a learning-focused research competition, judges will value:
 
 * Genuine engagement with the data and tools
 * Clear scientific thinking and reasoning

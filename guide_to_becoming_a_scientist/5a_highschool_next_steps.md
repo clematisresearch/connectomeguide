@@ -9,4 +9,6 @@ authors:
       - University of Toronto / University of Cambridge
 ---
 
-2_reading_scientific_papers.md
+# High School Students
+
+Coming soon ...

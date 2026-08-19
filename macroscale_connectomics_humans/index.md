@@ -94,7 +94,7 @@ As a result, entering the field can sometimes feel overwhelming. With that said,
 
 # How We Will Help You
 
-One of the goals of Connectome2026 (Track 2) is to make neuroimaging accessible to students regardless of their prior background.
+One of the goals of Connectome 2026–2027 (Track 2) is to make neuroimaging accessible to students regardless of their prior background.
 
 We have carefully designed this track so that participants can focus on learning and scientific discovery rather than spending months navigating the technical barriers that often accompany neuroimaging research.
 

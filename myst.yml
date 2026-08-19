@@ -1,7 +1,7 @@
 version: 1
 
 project:
-  title: 2026 Connectomics Research Competition
+  title: 2026–2027 Connectomics Research Competition
   authors:
     - name:
         given: Sapolnach
@@ -18,21 +18,22 @@ project:
         - file: handbook/selection_criteria.md
         - file: handbook/important_dates.md
         - file: handbook/awards.md
+        - file: handbook/get_involved.md
         - file: handbook/generative_ai.md
         - file: handbook/important_links.md
         - file: handbook/organizers_and_partners.md
         - file: handbook/faq.md
     - file: synapse_level_connectomics_flies/1-index.md
       children:
+        - file: synapse_level_connectomics_flies/expectations_flies.md
+        - file: synapse_level_connectomics_flies/fly_brain_and_neuropils.md
         - file: synapse_level_connectomics_flies/2-dataset_and_tools.md
-        - file: synapse_level_connectomics_flies/5-neuroglancer_guide.md
+        - file: synapse_level_connectomics_flies/male-cns-cell-type-explorer.md
         - file: synapse_level_connectomics_flies/4a-neuprint_gui_guide.md
+        - file: synapse_level_connectomics_flies/virtual_fly_brain.md
+        - file: synapse_level_connectomics_flies/introductory_connectomics_project.md
         - file: synapse_level_connectomics_flies/3a-neuprint_api_guide.md
         - file: synapse_level_connectomics_flies/3b-neuprint_api_guide.ipynb
-        - file: synapse_level_connectomics_flies/guiding_research_questions_api.md
-        - file: synapse_level_connectomics_flies/guiding_research_questions_gui.md
-        - file: synapse_level_connectomics_flies/video_submission_guide.md
-        - file: synapse_level_connectomics_flies/written_submission_guide.md
     - file: macroscale_connectomics_humans/index.md
       children:
         - file: macroscale_connectomics_humans/expectations_humans.md
@@ -51,8 +52,6 @@ project:
             - file: macroscale_connectomics_humans/tutorialh4_brainbeh_comparison.ipynb
             - file: macroscale_connectomics_humans/tutorialh5_brainbeh_association.ipynb
     - file: neuroscience_guide/index.md
-      children:
-        - file: neuroscience_guide/neurons_and_synapses.md
     - file: programming_guide/index.md
       children:
         - file: programming_guide/1_why_learn_python.md
@@ -78,5 +77,5 @@ project:
 site:
   template: book-theme
   options:
-    logo_text: Connectome2026
+    logo_text: Connectome 2026–2027
     hide_toc: false
