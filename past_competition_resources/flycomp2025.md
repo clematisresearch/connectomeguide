@@ -11,7 +11,7 @@ authors:
 
 # 2025 Fly Connectome Research Competition
 
-In 2025, we hosted the **first International Synapse-Level Connectomics Competition**, which focused on reconstructing and analysing neural circuits in the **fly optic lobe** using electron microscopy (EM) data.
+In 2025, we hosted the **first International Synapse-Level Connectomics Competition**, where participants explored neuronal morphology and connectivity across the *Drosophila* optic lobe synapse-level connectome ([Nern et al., 2024, *Nature*](https://doi.org/10.1038/s41586-024-07967-z)) using cutting-edge connectomics tools such as Neuroglancer and neuPrint.
 
 Although the scientific focus differs from this year's competition, many of the educational materials—particularly those related to **Track 1**—remain highly relevant. If you are interested in learning more about connectomics, we encourage you to explore the resources from last year's competition:
 
