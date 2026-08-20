@@ -14,7 +14,7 @@ authors:
 **Connectome 2026–2027** is built on open science, community collaboration, and the belief that authentic research should be accessible to curious minds everywhere. Whether you are a student, educator, student club leader, academic association, researcher, or prospective sponsor, there are many meaningful ways to be part of this global initiative.
 
 ---
-
+(1-for-participants-student-ambassador-program)=
 ## 1. For Participants: Student Ambassador Program
 
 Are you excited about connectomics and want to share your interest in neuroscience with others? Any student worldwide is eligible to become an official **Connectome Student Ambassador**!
@@ -54,7 +54,7 @@ As an ambassador, you will:
 
 ### Community Engagement Award
 
-To be considered for the **Community Engagement Award**, you must qualify as an official **Connectome Student Ambassador at some point during the competition period**.
+To be considered for the **Community Engagement Award**, you have to qualify as an official **Connectome Student Ambassador at some point during the competition period**.
 
 Continued and meaningful engagement with the community throughout the competition is highly encouraged!
 :::
@@ -117,13 +117,13 @@ We warmly invite neuroscience researchers, connectomics specialists, pedagogical
 * **Broaden Reach & Communication:** Share insights on making complex concepts accessible to everyone and reaching learners worldwide.
 * **Curricular Integration:** Help identify pathways to integrate these open-access connectomics resources into secondary and higher-education curricula.
 
-If you or your institution are interested in collaborating, please reach out to us at `clematis.reh@gmail.com`.
+If you or your institution are interested in collaborating, please reach out to us at `clematis.reh@gmail.com`
 
 ---
 
 ## 6. Monetary Sponsors & Sponsorship Tiers
 
-The **2026–2027 Connectome Research Competition** is a long-term, fully online initiative giving high school and undergraduate students around the world the opportunity to engage with real neuroscience datasets, computational tools, and open research.
+The **2026–2027 Connectomics Research Competition** is a long-term, fully online initiative giving high school and undergraduate students around the world the opportunity to engage with real neuroscience datasets, computational tools, and open research.
 
 Sponsorship directly supports **student prizes, computational infrastructure, educational resources, workshops, and research micro-grants**—both during the current competition cycle and in the continued development of future Clematis research programs.
 
@@ -158,7 +158,7 @@ Where appropriate, Gold sponsorship may be recognized through a named initiative
 
 We also welcome **custom sponsorships, in-kind contributions, scientific partnerships, and support for specific prizes or programs**.
 
-To discuss sponsorship or partnership opportunities, please contact us at `clematis.reh@gmail.com`.
+To discuss sponsorship or partnership opportunities, please contact us at `clematis.reh@gmail.com`
 
 
 ## 7. Scientific & Educational Partners
@@ -175,7 +175,7 @@ Supporting the competition is an opportunity to contribute directly to the next 
 
 Over the course of the competition, sponsors can become part of a sustained educational program.
 
-To discuss a partnership, please contact us at `clematis.reh@gmail.com`.
+To discuss a partnership, please contact us at `clematis.reh@gmail.com`
 
 ---
 

@@ -41,7 +41,7 @@ To stay informed about upcoming events, follow our channels:
 * **Instagram:** https://www.instagram.com/clematisresearch/
 * **Discord:** [https://tinyurl.com/discordclematis](https://discord.com/invite/MFFbJQFtvW)
 * **YouTube:** https://www.youtube.com/@clematisresearch
-* **Mailing List:** [https://tinyurl.com/Connectome2026Mail](https://forms.gle/xfE4FsfeNCFg1JGe8)
+* **Mailing List:** [https://tinyurl.com/Connectome2026-27Mail](https://forms.gle/xfE4FsfeNCFg1JGe8)
 
 ---
 
@@ -63,7 +63,7 @@ Another way to stay informed throughout the competition is through our [**Connec
 Subscribe to stay in the loop about the **2026–2027 Connectomics Research Competition** and receive competition updates, deadline reminders, workshop announcements, and helpful resources as you explore the connectome and prepare your submission.
 
 * **Discord:** [https://tinyurl.com/discordclematis](https://discord.com/invite/MFFbJQFtvW)
-* **Mailing List:** [https://tinyurl.com/Connectome2026Mail](https://forms.gle/xfE4FsfeNCFg1JGe8)
+* **Mailing List:** [https://tinyurl.com/Connectome2026-27Mail](https://forms.gle/xfE4FsfeNCFg1JGe8)
 
 ---
 

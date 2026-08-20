@@ -84,6 +84,6 @@ Before submitting your written report through the Google Form, verify the follow
 ## 5. How to Submit
 
 Submit your PDF report via the official Google Form:
-* **Track 1 Submission Form:** [https://forms.gle/zny6FE7PEEmzcbQB7](https://forms.gle/zny6FE7PEEmzcbQB7)
+* **Track 1 Submission Form:** [https://tinyurl.com/Connectome2026-27Track1](https://forms.gle/zny6FE7PEEmzcbQB7)
 
 Remember that you must also submit your accompanying **video submission** to the Clematis Discord (see [Video Submission Guide](video_submission_guide.md)).

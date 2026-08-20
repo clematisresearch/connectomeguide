@@ -1,5 +1,5 @@
 ---
-title: 2026–2027 Connectomics Research Competition
+title: Welcome
 authors:
   - name: Sapolnach Prompiengchai
     affiliations:
@@ -41,11 +41,13 @@ At the macroscopic scale, you will explore the human functional connectome—the
 
 Together, these two perspectives provide a unique opportunity to study the brain across scales: from individual synapses to whole-brain networks, from structural wiring to dynamic activity, and from neurons to behavior.
 
-## Learn From Researchers at the Frontiers of Neuroscience
+## Learn From Researchers Advancing Connectomics and Neuroscience
 
 Connectome 2026–2027 is organized in partnership with researchers working at the forefront of connectomics, computational neuroscience, and neuroimaging.
 
-The competition is chaired by graduate researchers affiliated with the **University of Oxford** and the **University of Toronto**, and is hosted in partnership with faculty members whose research has helped advance our understanding of neural circuits, cognition, and brain connectivity, including **Prof. Eyal Gruntman**, **Prof. Ina Anreiter**, **Prof. Morten Kringelbach**, and **Prof. Steve Joordens**.
+The competition brings together graduate researchers and faculty across the **University of Oxford**, **University of Cambridge**, and **University of Toronto**. It is co-chaired by **Sapolnach Prompiengchai**, a Rhodes Scholar and PhD student at the University of Oxford, and **Aarushi Vardhan, MSc**, an incoming PhD student at the University of Cambridge based at the MRC Laboratory of Molecular Biology, and a recent graduate of the University of Toronto. Our Faculty Advisors include **Prof. Eyal Gruntman**, **Prof. Ina Anreiter**, and **Prof. Steve Joordens** at the University of Toronto, **Prof. Morten Kringelbach** at the University of Oxford, and **Dr. Andrea Luppi** at the University of Cambridge.
+
+See [**Organizers and Partners**](handbook/organizers_and_partners.md) to learn more about the people behind Connectome 2026–2027.
 
 Through this competition, we hope to share not only the excitement of scientific discovery, but also the tools, techniques, and ways of thinking used by researchers tackling some of neuroscience's most important questions.
 
@@ -83,19 +85,13 @@ Using the LEMON dataset from the Max Planck Institute for Human Cognitive and Br
 
 We have similarly designed the competition so that participants can analyze human neuroimaging data regardless of their laptop specifications or computational resources.
 
-## [4. Neuroscience Guide](neuroscience_guide/index.md)
-
-A structured learning guide covering the neuroscience concepts relevant to the competition.
-
-We recognize that participants come from a wide range of educational backgrounds, so this guide is designed to help everyone build a common foundation of knowledge. Whether you are encountering neuroscience for the first time or seeking a deeper understanding of brain networks and cognition, this guide will help you develop the conceptual tools needed to engage with the research questions explored throughout the competition.
-
-## [5. Programming Guide](programming_guide/index.md)
+## [4. Programming Guide](programming_guide/index.md)
 
 A beginner-friendly introduction to Python programming and computational analysis.
 
 The skills introduced here are directly applicable to the competition while also providing a foundation that can be transferred to many other fields, including science, engineering, data science, artificial intelligence, social sciences, and industry.
 
-## [6. Guide to Becoming a Scientist](guide_to_becoming_a_scientist/index.md)
+## [5. Guide to Becoming a Scientist](guide_to_becoming_a_scientist/index.md)
 
 Research is about asking questions, communicating discoveries, and building a pathway toward future opportunities.
 

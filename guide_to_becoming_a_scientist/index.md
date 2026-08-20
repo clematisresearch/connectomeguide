@@ -39,7 +39,7 @@ Neuroscience itself can be divided into many overlapping fields. These fields st
 
 **Cognitive neuroscience** studies how the brain supports processes such as memory, attention, decision-making, language, emotion, and perception. Because much of this research involves humans, researchers may design behavioural experiments, collect neuroimaging data using techniques such as **fMRI or EEG**, recruit research participants or patients, and prepare ethics applications to ensure that their research is conducted responsibly.
 
-Other researchers may work primarily with **existing datasets** rather than collecting new experimental data. They might analyse large neuroimaging datasets, genetic datasets, or maps containing millions of neurons and synapses. The **2026 Connectome Research Competition** is an example of this type of research: you are using existing neuroscience datasets to ask and investigate your own scientific questions.
+Other researchers may work primarily with **existing datasets** rather than collecting new experimental data. They might analyse large neuroimaging datasets, genetic datasets, or maps containing millions of neurons and synapses. The **2026–2027 Connectomics Research Competition** is an example of this type of research: you are using existing neuroscience datasets to ask and investigate your own scientific questions.
 
 **Computational and theoretical neuroscience** uses mathematics and computation to understand the nervous system. Researchers might develop mathematical descriptions of the biophysical properties of individual neurons, simulate neural circuits, analyse patterns of activity across populations of neurons, or model networks across the entire brain.
 

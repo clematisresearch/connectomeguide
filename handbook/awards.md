@@ -65,5 +65,5 @@ The award celebrates participants who go above and beyond in supporting the broa
 
 :::{important}
 ### Ambassador Requirement
-To be considered for the **Community Engagement Award**, you must qualify as an official **Connectome Student Ambassador** at some point during the competition period. Please refer to [1. For Participants: Student Ambassador Program](get_involved.md#1-for-participants-student-ambassador-program) for details on engagement routes and how to apply.
+To be considered for the **Community Engagement Award**, you have to qualify as an official **Connectome Student Ambassador** at some point during the competition period. Please refer to [1. For Participants: Student Ambassador Program](get_involved.md#1-for-participants-student-ambassador-program) for details on engagement routes and how to apply.
 :::

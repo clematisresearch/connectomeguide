@@ -51,7 +51,6 @@ project:
             - file: macroscale_connectomics_humans/tutorialh3_graphtheory.ipynb
             - file: macroscale_connectomics_humans/tutorialh4_brainbeh_comparison.ipynb
             - file: macroscale_connectomics_humans/tutorialh5_brainbeh_association.ipynb
-    - file: neuroscience_guide/index.md
     - file: programming_guide/index.md
       children:
         - file: programming_guide/1_why_learn_python.md
@@ -76,6 +75,8 @@ project:
 
 site:
   template: book-theme
+  favicon: static/favicon.png
+  logo: static/clematis_circle_logo.png
   options:
     logo_text: Connectome 2026–2027
     hide_toc: false

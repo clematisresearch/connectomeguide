@@ -51,7 +51,7 @@ If you are aiming to be **considered for awards**, you must submit work for **bo
 
 ## Video Submission
 
-All video submissions must be posted in **#Connectome-2026-2027** (or **#Connectome2026**) on the Clematis Discord server: https://tinyurl.com/discordclematis
+All video submissions must be posted in **#Connectome2026-2027** on the Clematis Discord server: https://tinyurl.com/discordclematis
 
 The video submission is intended for a **general audience**, including your fellow participants and the broader Clematis community of over 1,000 learners from around the world. This is an opportunity to communicate your research journey, discoveries, challenges, and insights in an accessible and engaging way.
 
@@ -93,8 +93,8 @@ For general guidance on scientific writing, referencing, word counts, and commun
 For track-specific requirements and expectations, please consult the relevant track sections and submission instructions.
 
 The Google Form links to submit your written report:
-- **Track 1 (Flies):** https://forms.gle/zny6FE7PEEmzcbQB7 
-- **Track 2 (Humans):** https://forms.gle/cgHzUadfhcTh45xK7
+- **Track 1 (Flies):** [https://tinyurl.com/Connectome2026-27Track1](https://forms.gle/zny6FE7PEEmzcbQB7)
+- **Track 2 (Humans):** [https://tinyurl.com/Connectome2026-27Track2](https://forms.gle/cgHzUadfhcTh45xK7)
 
 # Submission Flowchart
 

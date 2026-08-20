@@ -72,8 +72,8 @@ You do not need professional recording equipment. Free, simple tools include:
 
 All video submissions must be shared on the **Clematis Discord**:
 
-1. Join the Discord community: [https://tinyurl.com/discordclematis](https://tinyurl.com/discordclematis).
-2. Navigate to the **#Connectome-2026-2027** (or **#Connectome2026**) channel.
+1. Join the Discord community: [https://tinyurl.com/discordclematis](https://discord.com/invite/MFFbJQFtvW)
+2. Navigate to the **#Connectome2026-2027** channel.
 3. Post your video:
    * You may upload the video file directly (MP4 / WebM), or
    * Share an accessible link (YouTube, Google Drive, Vimeo, OneDrive, Dropbox, or LinkedIn).

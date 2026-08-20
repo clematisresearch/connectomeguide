@@ -19,7 +19,7 @@ This directory brings together key platforms, portals, datasets, software packag
 
 * **Competition Handbook & Website:** [https://clematisresearch.github.io/connectome/](https://clematisresearch.github.io/connectome/)
 * **Clematis Discord Community:** [https://tinyurl.com/discordclematis](https://tinyurl.com/discordclematis) *(Join for announcements, Q&A, office hours, and submitting video links)*
-* **Official Mailing List & Updates:** [Connectome Mailing List Sign-up](https://forms.gle/xfE4FsfeNCFg1JGe8)
+* **Official Mailing List & Updates:** [https://tinyurl.com/Connectome2026-27Mail](https://forms.gle/xfE4FsfeNCFg1JGe8)
 * **YouTube Channel:** [@clematisresearch](https://www.youtube.com/@clematisresearch)
 * **Instagram:** [@clematisresearch](https://www.instagram.com/clematisresearch)
 * **LinkedIn:** [Clematis Research Hub](https://www.linkedin.com/company/clematis-research-hub)
@@ -28,7 +28,7 @@ This directory brings together key platforms, portals, datasets, software packag
 ### Project Submission Forms
 * **Track 1 (Flies) Written Report Submission:** [Google Form for Track 1](https://forms.gle/zny6FE7PEEmzcbQB7)
 * **Track 2 (Humans) Written Report Submission:** [Google Form for Track 2](https://forms.gle/cgHzUadfhcTh45xK7)
-* **Video Submissions:** Post your video link on the Clematis Discord in the `#Connectome-2026-2027` channel.
+* **Video Submissions:** Post your video link on the Clematis Discord in the `#Connectome2026-2027` channel.
 
 ---
 
