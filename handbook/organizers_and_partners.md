@@ -76,7 +76,7 @@ Aarushi is a graduate student and researcher in connectomics and neuroscience. S
 :align: left
 ```
 
-Prof. Morten Kringelbach is the founding director of the [Centre for Eudaimonia and Human Flourishing](http://hedonia.kringelbach.org/) at the University of Oxford, dedicated to understanding the neurobiological mechanisms underlying human well-being, pleasure, and flourishing. The centre combines advanced whole-brain computational modelling, functional neuroimaging (MEG and fMRI), connectomics, and dynamical systems theory to uncover how distributed brain networks coordinate brain states in health and neuropsychiatric disease. 
+[Prof. Morten Kringelbach](https://www.psych.ox.ac.uk/team/mlk) is the founding director of the [Centre for Eudaimonia and Human Flourishing](http://hedonia.kringelbach.org/) at the University of Oxford, dedicated to understanding the neurobiological mechanisms underlying human well-being, pleasure, and flourishing. The centre combines advanced whole-brain computational modelling, functional neuroimaging (MEG and fMRI), connectomics, and dynamical systems theory to uncover how distributed brain networks coordinate brain states in health and neuropsychiatric disease. 
      
 <div style="height: 1rem;"></div>
 
