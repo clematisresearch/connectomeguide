@@ -18,6 +18,7 @@ This directory brings together key platforms, portals, datasets, software packag
 ## 1. Competition Platforms & Community
 
 * **Competition Handbook & Website:** [https://clematisresearch.github.io/connectome/](https://clematisresearch.github.io/connectome/)
+* **Competition Repository:** [https://tinyurl.com/Connectome2026-27Repository](https://drive.google.com/drive/folders/1G74328wUmmHwpASOwri0Fqurc0Y6eI34?usp=drive_link)
 * **Clematis Discord Community:** [https://tinyurl.com/discordclematis](https://tinyurl.com/discordclematis) *(Join for announcements, Q&A, office hours, and submitting video links)*
 * **Official Mailing List & Updates:** [https://tinyurl.com/Connectome2026-27Mail](https://forms.gle/xfE4FsfeNCFg1JGe8)
 * **YouTube Channel:** [@clematisresearch](https://www.youtube.com/@clematisresearch)
