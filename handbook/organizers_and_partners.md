@@ -1,0 +1,164 @@
+---
+title: Organizers and Partners
+authors:
+  - name: Sapolnach Prompiengchai
+    affiliations:
+      - University of Oxford
+  - name: Aarushi Vardhan
+    affiliations:
+      - University of Toronto / University of Cambridge
+---
+
+# Organizers and Partners
+
+---
+
+## Host Organization
+
+### Clematis Research Empowerment Hub (Clematis)
+
+```{figure} ../static/clematis_logo.png
+:alt: Clematis Research Empowerment Hub Logo
+:width: 320px
+:align: left
+```
+
+**Clematis Research Empowerment Hub (Clematis)** is a global, non-profit initiative dedicated to making research and innovation more accessible to the next generation of scientists and changemakers. We empower high school students through free research, mentorship, and leadership programs, while also engaging undergraduates and other emerging scientists. By collaborating with stakeholders across secondary and tertiary education, we provide young learners with authentic research experiences, opportunities to develop practical skills, and the confidence and support to turn their ideas into meaningful work and create positive change in their communities.
+
+Clematis was founded to tackle the systemic barriers that often keep young people from accessing research opportunities, including financial, geographical, institutional, administrative, and cultural obstacles, along with a lack of mentorship and supportive community. Through our flagship **Catalyst Scholars Program**, **Think Like a Physicist**, and the **Fly and Human Connectome Research Competitions**, we connect students with mentors, educators, researchers, and professionals from around the world, making cutting-edge research tools, methodologies, and guidance accessible regardless of their background or location.
+
+We work with young people, educators, faculty partners, graduate researchers, and students from diverse academic and cultural backgrounds to develop and deliver our initiatives. From hands-on research projects and classroom-integrated research to long-term mentorship and opportunities to turn ideas into action, Clematis aims to build not just capable researchers, but also thoughtful, confident, and collaborative young leaders who can create impact beyond the classroom.
+
+---
+
+## Competition Co-Chairs
+
+### Sapolnach Prompiengchai
+**Co-Chair & Program Lead**  
+**University of Oxford**
+
+```{figure} ../static/sapolnach.png
+:alt: Sapolnach Prompiengchai
+:width: 200px
+:align: left
+```
+
+Sapolnach is a PhD student and Rhodes Scholar at the University of Oxford. His research focuses on computational neuroscience and connectomics, using whole-brain modeling of neuroimaging data to uncover the mechanisms underlying neuropsychiatric disorders. As Program Lead, he oversees the overall structure, curriculum, and operations of the competition, working to ensure an engaging and meaningful experience for all participants.
+
+<div style="height: 1rem;"></div>
+
+### Aarushi Vardhan
+**Co-Chair & Research Lead**  
+**University of Toronto / University of Cambridge**
+
+```{figure} ../static/aarushi.png
+:alt: Aarushi Vardhan
+:width: 200px
+:align: left
+```
+
+Aarushi is a graduate student and researcher in connectomics and neuroscience. She recently completed her MSc at the University of Toronto and is an incoming PhD student at the University of Cambridge, based at the [MRC Laboratory of Molecular Biology](https://mrclmb.ac.uk/). Her research focuses on using connectomics to explore neural connectivity and circuit computation in the *Drosophila* brain. As Research Lead, she co-designs the scientific workshops and activities for the competition and supported participants throughout their research journey.
+
+<div style="height: 1rem;"></div>
+
+---
+
+<div style="height: 1rem;"></div>
+
+
+## Research Partners
+
+### Centre for Eudaimonia and Human Flourishing
+**Prof. Morten Kringelbach**  
+**University of Oxford**
+
+```{figure} ../static/eudaimonia_logo.png
+:alt: Centre for Eudaimonia and Human Flourishing
+:width: 140px
+:align: left
+```
+
+[Prof. Morten Kringelbach](https://www.psych.ox.ac.uk/team/mlk) is the founding director of the [Centre for Eudaimonia and Human Flourishing](http://hedonia.kringelbach.org/) at the University of Oxford, dedicated to understanding the neurobiological mechanisms underlying human well-being, pleasure, and flourishing. The center combines advanced whole-brain computational modeling, functional neuroimaging (MEG and fMRI), connectomics, and dynamical systems theory to uncover how distributed brain networks coordinate brain states in health and neuropsychiatric disease. 
+     
+<div style="height: 1rem;"></div>
+
+### Gruntman Lab
+**Prof. Eyal Gruntman**  
+**University of Toronto**
+
+```{figure} ../static/gruntman-lab-logo.png
+:alt: Gruntman Lab Logo
+:width: 220px
+:align: left
+```
+
+The [Gruntman Lab](https://csb.utoronto.ca/faculty/eyal-gruntman/) studies how the brain extracts visual information to guide behavior. From the 2D input that is generated by our photoreceptors, we are somehow able to identify objects, separate them from the background, and determine their motion direction. These fundamental computations happen already in our retina, before the visual information is even sent to the brain. The focus of the laboratory is to understand how visual circuits carry out these computations and how the brain assembles complex percepts from elementary features. The lab uses the fruit fly, *Drosophila melanogaster*, as a model organism utilizing its rich repertoire of visually guided behaviors, powerful genetic tools, and complete electron microscopy connectome datasets. By combining electrophysiology with behavioral analysis and modern *Drosophila* tools to trace and manipulate neural circuits, the lab aims to uncover single-neuron computations within the context of brain-wide networks.
+
+
+<div style="height: 1.5rem;"></div>
+
+### Luppi Lab
+**Dr. Andrea Luppi**  
+**University of Cambridge**
+
+```{figure} ../static/andrea-luppi.png
+:alt: Dr. Andrea Luppi
+:width: 200px
+:align: left
+```
+
+[**Dr. Andrea Luppi**](https://neuroscience.cam.ac.uk/member/al857/) is a Wellcome Early Career Research Fellow at the **University of Cambridge** and a Research Fellow at [**St John’s College, Cambridge**](https://www.joh.cam.ac.uk/research/academics/fellows/dr-andrea-luppi). His research combines computational and translational neuroscience to investigate how brain connectivity and dynamics relate to consciousness and cognition across humans, non-human primates, and mice, including how these dynamics are altered by anesthesia, coma, and psychedelic drugs. His work has helped identify neural signatures associated with consciousness and has contributed new approaches for studying brain dynamics across different states and species. In 2025, Dr Luppi was named a [**Rising Star in Neuroscience by *The Transmitter***](https://www.joh.cam.ac.uk/about-us/news-and-research/st-johns-academic-named-rising-star-in-neuroscience-2025), recognizing his scientific contributions as well as his commitment to mentoring and community-building.  
+
+<div style="height: 1rem;"></div>
+
+
+### Anreiter Lab
+**Prof. Ina Anreiter**  
+**University of Toronto**
+
+```{figure} ../static/ina_anreiter.png
+:alt: Prof. Ina Anreiter
+:width: 200px
+:align: left
+```
+
+The [Anreiter Lab](https://www.utsc.utoronto.ca/labs/anreiter/) is interested in understanding where differences in how every individual or their body responds to an experience originate from at the biological level. Every individual is born with a fixed set of genes but the activity of those genes (e.g., their expression) can change in response to experience (e.g., stress, past and current environment). To understand what makes individuals behave differently, the lab looks at genes with specific functions in development and behavior and how their expression is regulated. The lab's work tries to explain the molecular pathways through which the environment interacts with genes, the long-term effects of these interactions, and differences between individuals. To answer these questions, the lab uses the fruit fly (*Drosophila melanogaster*) as a model organism to study processes of gene regulation that influence development, physiology, and behavior. A particular focus of the lab lies in behavioral epigenetics and epitranscriptomics, or the deposition of chemical marks on DNA, histones, and RNA. The lab's work combines classical genetics, molecular biology, transcriptomics, behavioral assays, and bioinformatics.
+
+<div style="height: 1rem;"></div>
+
+
+<!-- ### Turaga Lab
+**Dr. Srini Turaga**  
+**HHMI, Janelia Research Campus**
+
+```{figure} ../static/srini-turaga.jpg
+:alt: Dr. Srini Turaga
+:width: 200px
+:align: left
+```
+
+[Dr. Turaga](https://www.janelia.org/people/srinivas-turaga) is a group leader at [HHMI Janelia](https://www.hhmi.org/research/janelia) and a member of the NSF AI Institute for Artificial and Natural Intelligence (ARNI). An early pioneer of AI for science and connectomics, he developed deep neural networks for computer vision and for mapping nervous-system connectivity at single-neuron and nanometer resolution. During his PhD at MIT, he developed AI methods for reconstructing neural wiring from electron microscopy and helped map the inner plexiform layer of the mouse retina. These methods later powered EyeWire, a citizen-science project that used crowdsourcing to map a much larger volume of the mouse retina. At the Gatsby Unit at UCL, he worked on building statistical models of large-scale neural activity recordings. Today, his research sits at the intersection of AI and science, spanning neuroscience, biomechanics, optics, and protein engineering. His team develops machine-learning and statistical approaches to map neural connectivity and relate it to neural activity, while also combining differentiable simulations with AI to develop programmable microscopes and engineer new protein sensors.
+
+<div style="height: 1rem;"></div> -->
+
+
+---
+
+<div style="height: 1rem;"></div>
+
+## Pedagogical Partner
+
+### Advanced Learning Technologies Lab
+**Prof. Steve Joordens**  
+**University of Toronto**
+
+```{figure} ../static/steve_joordens.png
+:alt: Prof. Steve Joordens
+:width: 200px
+:align: left
+```
+
+[Steve Joordens](https://www.utsc.utoronto.ca/psych/person/steve-joordens)is a Professor of Psychology at the University of Toronto and has served as the Director of the Advanced Learning Technologies Lab for over 30 years. Initially trained as a cognitive psychologist specializing in human memory and consciousness, his research has since evolved to focus on the effective use of educational technologies— particularly those that support the development of core "Skills of Success," such as critical and creative thinking, effective communication and collaboration, and metacognitive awareness. His lab operates at the intersection of pedagogy, psychology, and artificial intelligence. 
+
+A passionate advocate for open education, Dr. Joordens developed massive open online courses (MOOC) on Coursera, which have now enrolled over 700,000 students The first course was a part of a $100,000 grant from the Bill & Melinda Gates Foundation. Furthermore, his outstanding contributions to teaching have earned him numerous accolades, including the Leadership in Faculty Teaching Award, the President's Teaching Award, the 3M National Teaching Fellowship, and, most recently, the Canadian Post- Secondary EdTech Leader of the Year Award from Mindshare Learning. One of the educational technologies he co- developed with his PhD student, peerScholar, won the 2009 National Technology Innovation Award and is now a scalable educational tool used in schools and universities worldwide
+

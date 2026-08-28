@@ -1,0 +1,86 @@
+version: 1
+
+project:
+  title: 2026–2027 Connectomics Research Competition
+  authors:
+    - name:
+        given: Sapolnach
+        family: Prompiengchai
+  toc:
+    - file: index.md
+    - file: handbook/index.md
+      children:
+        - file: handbook/competition_overview.md
+        - file: handbook/eligibility_criteria.md
+        - file: handbook/how_to_participate.md
+        - file: handbook/submitting_your_entry.md
+        - file: handbook/writing_guide.md
+        - file: handbook/selection_criteria.md
+        - file: handbook/important_dates.md
+        - file: handbook/awards.md
+        - file: handbook/get_involved.md
+        - file: handbook/generative_ai.md
+        - file: handbook/important_links.md
+        - file: handbook/organizers_and_partners.md
+        - file: handbook/faq.md
+    - file: synapse_level_connectomics_flies/1-index.md
+      children:
+        - file: synapse_level_connectomics_flies/expectations_flies.md
+        - file: synapse_level_connectomics_flies/fly_brain_and_neuropils.md
+        - file: synapse_level_connectomics_flies/2-dataset_and_tools.md
+        - file: synapse_level_connectomics_flies/male-cns-cell-type-explorer.md
+        - file: synapse_level_connectomics_flies/4a-neuprint_gui_guide.md
+        - file: synapse_level_connectomics_flies/virtual_fly_brain.md
+        - file: synapse_level_connectomics_flies/introductory_connectomics_project.md
+        - file: synapse_level_connectomics_flies/3-neuprint_api_guide.md
+          children:
+            - file: synapse_level_connectomics_flies/3a-neuprint_api_querying_connections.ipynb
+            - file: synapse_level_connectomics_flies/3b-neuprint_api_biology_to_code.ipynb
+            - file: synapse_level_connectomics_flies/3c-neuprint_plotting.ipynb
+ 
+    - file: macroscale_connectomics_humans/index.md
+      children:
+        - file: macroscale_connectomics_humans/expectations_humans.md
+        - file: macroscale_connectomics_humans/about_lemon.md
+        - file: macroscale_connectomics_humans/understanding_preprocessed_data.md
+        - file: macroscale_connectomics_humans/rsfMRI_overview.md
+        - file: macroscale_connectomics_humans/neuroimaging_data_analysis.md
+          children:
+            - file: macroscale_connectomics_humans/parcellation_timeseries.md
+            - file: macroscale_connectomics_humans/calculatingFC.md
+            - file: macroscale_connectomics_humans/linking_brain_and_behavior.ipynb
+            - file: macroscale_connectomics_humans/tutorial_human_overview.ipynb
+            - file: macroscale_connectomics_humans/tutorialh1_timeseries.ipynb
+            - file: macroscale_connectomics_humans/tutorialh2_FC.ipynb
+            - file: macroscale_connectomics_humans/tutorialh3_graphtheory.ipynb
+            - file: macroscale_connectomics_humans/tutorialh4_brainbeh_comparison.ipynb
+            - file: macroscale_connectomics_humans/tutorialh5_brainbeh_association.ipynb
+    - file: programming_guide/index.md
+      children:
+        - file: programming_guide/1_why_learn_python.md
+        - file: programming_guide/2_python_install.md
+        - file: programming_guide/3_python_conda.ipynb
+        - file: programming_guide/4_python_tutorial1_basics.ipynb
+        - file: programming_guide/5_python_tutorial2_pandas.ipynb
+        - file: programming_guide/6_python_tutorial3_plotting.ipynb
+    - file: guide_to_becoming_a_scientist/index.md
+      children:
+        - file: guide_to_becoming_a_scientist/1_explore_your_interests.md
+        - file: guide_to_becoming_a_scientist/2_reading_scientific_papers.md
+        - file: guide_to_becoming_a_scientist/3_finding_research_overview.md
+        - file: guide_to_becoming_a_scientist/4_finding_your_first_research.md
+        # - file: guide_to_becoming_a_scientist/5_research_and_your_next_steps.md
+        #   children:
+        #     - file: guide_to_becoming_a_scientist/5a_highschool_next_steps.md
+        #     - file: guide_to_becoming_a_scientist/5b_undergrad_next_steps.md
+    - file: past_competition_resources/index.md
+      children:
+        - file: past_competition_resources/flycomp2025.md
+
+site:
+  template: book-theme
+  favicon: static/favicon.png
+  logo: static/clematis_circle_logo.png
+  options:
+    logo_text: Connectome 2026–2027
+    hide_toc: false
