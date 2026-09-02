@@ -8,3 +8,6 @@ _build/
 scratch/
 archive/
 static_archive/
+
+#Neuprint API info 
+.env

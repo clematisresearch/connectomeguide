@@ -34,9 +34,11 @@ project:
         - file: synapse_level_connectomics_flies/introductory_connectomics_project.md
         - file: synapse_level_connectomics_flies/3-neuprint_api_guide.md
           children:
+            - file: synapse_level_connectomics_flies/coding_practices_to_keep_in_mind.md
             - file: synapse_level_connectomics_flies/3a-neuprint_api_querying_connections.ipynb
             - file: synapse_level_connectomics_flies/3b-neuprint_api_biology_to_code.ipynb
             - file: synapse_level_connectomics_flies/3c-neuprint_plotting.ipynb
+            
  
     - file: macroscale_connectomics_humans/index.md
       children:
