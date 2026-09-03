@@ -16,15 +16,15 @@ Before starting the project, you will need to set up Git and GitHub. We will use
 Rather than creating a separate tutorial for Git, we recommend working through these three excellent lessons from **The Odin Project**:
 
 1. **Introduction to Git**
-   [The Odin Project — Introduction to Git](https://www.theodinproject.com/lessons/foundations-introduction-to-git?utm_source=chatgpt.com)
+   [The Odin Project — Introduction to Git](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
    Learn what Git and GitHub are, how they differ, and why version control is useful.
 
 2. **Setting Up Git**
-   [The Odin Project — Setting Up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git?utm_source=chatgpt.com)
+   [The Odin Project — Setting Up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
    Install Git, create your GitHub account, configure Git, and connect your computer to GitHub.
 
 3. **Git Basics**
-   [The Odin Project — Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics?utm_source=chatgpt.com)
+   [The Odin Project — Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
    Work through the basic Git workflow: creating a repository, cloning it, tracking changes, committing, and pushing your work to GitHub.
 
 ### What you should be comfortable with afterwards
