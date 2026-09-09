@@ -23,20 +23,25 @@ project:
         - file: handbook/important_links.md
         - file: handbook/organizers_and_partners.md
         - file: handbook/faq.md
-    - file: synapse_level_connectomics_flies/1-index.md
+    - file: synapse_level_connectomics_flies/0-index.md
       children:
-        - file: synapse_level_connectomics_flies/expectations_flies.md
-        - file: synapse_level_connectomics_flies/fly_brain_and_neuropils.md
-        - file: synapse_level_connectomics_flies/2-dataset_and_tools.md
-        - file: synapse_level_connectomics_flies/male-cns-cell-type-explorer.md
-        - file: synapse_level_connectomics_flies/4a-neuprint_gui_guide.md
-        - file: synapse_level_connectomics_flies/virtual_fly_brain.md
-        - file: synapse_level_connectomics_flies/introductory_connectomics_project.md
-        - file: synapse_level_connectomics_flies/3-neuprint_api_guide.md
+        - file: synapse_level_connectomics_flies/1-expectations_flies.md
+        - file: synapse_level_connectomics_flies/2-fly_brain_and_neuropils.md
+        - file: synapse_level_connectomics_flies/3-dataset_and_tools.md
+        - file: synapse_level_connectomics_flies/4-introductory_connectomics_project.md
+        - file: synapse_level_connectomics_flies/5a-neuprint_gui_guide.md
+        - file: synapse_level_connectomics_flies/5b-male-cns-cell-type-explorer.md
+        - file: synapse_level_connectomics_flies/5c-virtual_fly_brain.md
+        - file: synapse_level_connectomics_flies/6-neuprint_api_guide.md
           children:
-            - file: synapse_level_connectomics_flies/3a-neuprint_api_querying_connections.ipynb
-            - file: synapse_level_connectomics_flies/3b-neuprint_api_biology_to_code.ipynb
-            - file: synapse_level_connectomics_flies/3c-neuprint_plotting.ipynb
+            - file: synapse_level_connectomics_flies/6a-neuprint_api_querying_connections.ipynb
+            - file: synapse_level_connectomics_flies/6b-neuprint_api_biology_to_code.ipynb
+            - file: synapse_level_connectomics_flies/6c-neuprint_plotting.ipynb
+        - file: synapse_level_connectomics_flies/7-connectome_interpreter.md
+          children:
+              - file: synapse_level_connectomics_flies/7a-connectome_interpreter_tut1.ipynb
+
+
             
  
     - file: macroscale_connectomics_humans/index.md
