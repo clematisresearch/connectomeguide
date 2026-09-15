@@ -17,7 +17,7 @@ A common approach in the field is to focus on the strongest connection partners 
 
 The [Connectome Interpreter Toolkit](https://www.biorxiv.org/content/10.1101/2025.09.29.679410v2.full) is a toolbox that helps researchers turn massive, complex connectome wiring diagrams into hypotheses about neural function and behaviour. 
 
-Connectome Interpreter addresses this challenge by **combining structural connectome data with existing knowledge about neuronal function**. It provides computational tools to efficiently explore:
+Connectome Interpreter addresses this challenge by **combining structural connectome data with existing knowledge about neuronal function**. It provides computational tools to  explore:
 
 * **Direct and indirect (polysynaptic) connections**
 * **How signals may propagate through circuits**
