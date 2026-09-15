@@ -1,5 +1,5 @@
 ---
-title: "Git: Coding Practices to keep in mind STILL EDITING IN PROGRESS"
+title: "Introduction to Git"
 authors:
   - name: Aarushi Vardhan
     affiliations:
