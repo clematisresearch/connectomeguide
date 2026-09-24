@@ -117,7 +117,7 @@ The fly Central Nervous System is divided into three primary anatomical componen
 3. **The Ventral Nerve Cord (VNC)**
 
 ---
-
+(optic-lobes)=
 ### A. The Optic Lobes (Vision)
 
 Vision is the fly's largest sensory modality. **More than half of all neurons** in the fly brain reside in the optic lobes!
@@ -207,7 +207,7 @@ Together, these different neurons form the circuits that allow visual informatio
 
 
 ---
-
+(central-brain)=
 ### B. The Central Brain (Sensory Integration, Learning, & Navigation)
 
 We have just seen that the **optic lobes** contain a series of neuropils specialized for processing visual information.

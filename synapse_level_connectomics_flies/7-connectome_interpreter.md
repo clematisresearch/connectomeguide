@@ -19,8 +19,8 @@ The [Connectome Interpreter Toolkit](https://www.biorxiv.org/content/10.1101/202
 
 Connectome Interpreter addresses this challenge by **combining structural connectome data with existing knowledge about neuronal function**. It provides computational tools to  explore:
 
-* **Direct and indirect (polysynaptic) connections**
-* **How signals may propagate through circuits**
+* **Direct and indirect connections**
+* **How information may propagate through circuits**
 * **Which neurons or pathways may be functionally related**
 * **What inputs might optimally activate a neuron**
 * **How excitation and inhibition shape signal propagation**

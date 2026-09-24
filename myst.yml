@@ -40,6 +40,7 @@ project:
         - file: synapse_level_connectomics_flies/7-connectome_interpreter.md
           children:
               - file: synapse_level_connectomics_flies/7a-connectome_interpreter_tut1.ipynb
+              - file: synapse_level_connectomics_flies/7b-connectome_interpreter_tut2.ipynb
     - file: macroscale_connectomics_humans/index.md
       children:
         - file: macroscale_connectomics_humans/expectations_humans.md
