@@ -105,6 +105,12 @@ Here, you will formulate a research question motivated by the scientific literat
 
 Your computational analyses should be driven by a clear biological question. A focused, well-justified, and accurately interpreted analysis is preferable to a complex computational methodology that does not meaningfully address the biological question.
 
+:::{important}
+### Code and Public GitHub Repository
+
+If your project involves coding—including any API or Advanced Level project—you must upload the notebooks and scripts needed to reproduce your analysis to a **public GitHub repository**. Do not upload tokens or other private information. [Tutorial 4: Git, GitHub, and the Command Line](../programming_guide/7_introducing_git.md) explains how to create the repository, upload your code, write a useful README, and protect secrets such as your neuPrint token.
+:::
+
 ## Written Report Structure (Advanced Level)
 
 For general advice on writing a scientific paper, please refer to the [Writing Guide](../handbook/writing_guide.md).

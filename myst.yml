@@ -34,9 +34,10 @@ project:
         - file: synapse_level_connectomics_flies/5c-virtual_fly_brain.md
         - file: synapse_level_connectomics_flies/6-neuprint_api_guide.md
           children:
-            - file: synapse_level_connectomics_flies/6a-neuprint_api_querying_connections.ipynb
-            - file: synapse_level_connectomics_flies/6b-neuprint_api_biology_to_code.ipynb
-            - file: synapse_level_connectomics_flies/6c-neuprint_plotting.ipynb
+            - file: synapse_level_connectomics_flies/6a-neuprint_setup.md
+            - file: synapse_level_connectomics_flies/6b-neuprint_api_querying_connections.ipynb
+            - file: synapse_level_connectomics_flies/6c-neuprint_api_biology_to_code.ipynb
+            - file: synapse_level_connectomics_flies/6d-neuprint_plotting.ipynb
         - file: synapse_level_connectomics_flies/7-connectome_interpreter.md
           children:
               - file: synapse_level_connectomics_flies/7a-connectome_interpreter_tut1.ipynb
@@ -58,6 +59,7 @@ project:
             - file: macroscale_connectomics_humans/tutorialh3_graphtheory.ipynb
             - file: macroscale_connectomics_humans/tutorialh4_brainbeh_comparison.ipynb
             - file: macroscale_connectomics_humans/tutorialh5_brainbeh_association.ipynb
+            - file: macroscale_connectomics_humans/tutorialh6_machine_learning.ipynb
     - file: programming_guide/index.md
       children:
         - file: programming_guide/1_why_learn_python.md

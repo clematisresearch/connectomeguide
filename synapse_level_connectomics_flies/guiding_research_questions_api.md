@@ -95,9 +95,9 @@ Small subgraphs of 3–4 neurons (motifs) such as **feedforward loops**, **mutua
 
 ## Recommended Computational Workflow
 
-1. **Set Up Your Environment:** Follow the [Programming Guide](../programming_guide/index.md) and [Dataset and Tools](2-dataset_and_tools.md) to install Python, `neuprint-python`, `pandas`, `numpy`, `networkx`, and `plotly`.
-2. **Authenticate:** Obtain your authentication token from the neuPrint web interface and initialize your `Client` object (see [neuPrint API Guide](3-neuprint_api_guide.md)).
-3. **Work Through the Tutorial Notebook:** Complete the [neuPrint API Tutorial Notebook](3a-neuprint_api_querying_connections.ipynb) to master essential query functions (`fetch_neurons`, `fetch_adjacencies`, `fetch_synapse_connections`).
+1. **Set Up Your Environment:** Follow the [Programming Guide](../programming_guide/index.md) and [Dataset and Tools](3-dataset_and_tools.md) to install Python and understand the available tools.
+2. **Authenticate Safely:** Complete [1a) Set Up neuPrint for Python](6a-neuprint_setup.md) to install the required packages, protect your token, and test your `Client`.
+3. **Work Through the API Tutorials:** Continue through Tutorials 1b–1d to practise querying, processing, visualizing, and interpreting connection data.
 4. **Formulate & Test Hypotheses:** Write modular Python scripts to query, filter, and analyze the connectome data.
 5. **Visualize Results:** Generate publication-quality figures using `plotly` or `matplotlib`.
-6. **Write Your Manuscript:** Structure your 2,000–4,000 word paper following the [Expectations Guide](expectations_flies.md) and [Written Submission Guide](written_submission_guide.md).
+6. **Write Your Manuscript:** Structure your 2,000–4,000 word paper following the [Expectations Guide](1-expectations_flies.md) and [Written Submission Guide](written_submission_guide.md).

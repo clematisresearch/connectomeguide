@@ -18,7 +18,7 @@ Participating in Connectome 2026–2027 is simple. Follow the steps below to mak
 We strongly recommend beginning with the following sections:
 
 - [Handbook](../handbook/index.md) (you are here)
-- [Track 1: Synapse-Level Connectomics (Flies)](../synapse_level_connectomics_flies/1-index.md)
+- [Track 1: Synapse-Level Connectomics (Flies)](../synapse_level_connectomics_flies/0-index.md)
 - [Track 2: Macroscale Connectomics (Humans)](../macroscale_connectomics_humans/index.md)
 
 These resources introduce the scientific background, datasets, tools, research questions, and learning materials that will support your participation throughout the competition.
@@ -114,5 +114,4 @@ To be considered for awards and cash prizes, participants must:
 ---
 
 We encourage participants to approach the competition with curiosity, creativity, and a willingness to learn. Whether this is your first research project or one of many, Connectome 2026–2027 provides an opportunity to engage with real scientific data, learn from researchers, and contribute to exciting questions about how the brain works.
-
 

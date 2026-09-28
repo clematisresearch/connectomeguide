@@ -11,5 +11,4 @@ authors:
 
 # Introductory (GUI) and Advanced (Computational) Tracks
 
-Please see the comprehensive guide: **[Expectations: Intro vs Advanced Levels (Track 1)](expectations_flies.md)**.
-
+Please see the comprehensive guide: **[Expectations: Intro vs Advanced Levels (Track 1)](1-expectations_flies.md)**.

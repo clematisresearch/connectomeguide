@@ -15,10 +15,10 @@ To help you get started on your Introductory Track project, we have curated a co
 
 For the Introductory Track, your goal is to:
 1. **Choose a neuron or cell type of interest.**
-2. **Visualize its 3D morphology and brain projections** using the [Male CNS Cell Type Explorer](male-cns-cell-type-explorer.md).
-3. **Query its top upstream (inputs) and downstream (outputs) synaptic partners** using the [neuPrint Web GUI](4a-neuprint_gui_guide.md).
+2. **Visualize its 3D morphology and brain projections** using the [Male CNS Cell Type Explorer](5b-male-cns-cell-type-explorer.md).
+3. **Query its top upstream (inputs) and downstream (outputs) synaptic partners** using the [neuPrint Web GUI](5a-neuprint_gui_guide.md).
 4. **Connect its wiring pattern to fly behavior** using published neuroscience literature.
-5. **Write a 500–1,000 word research commentary** summarizing your findings (see [Expectations](expectations_flies.md)).
+5. **Write a 500–1,000 word research commentary** summarizing your findings (see [Expectations](1-expectations_flies.md)).
 
 You are welcome to choose one of the topics below or formulate your own question!
 
@@ -114,7 +114,7 @@ Some smells and tastes trigger automatic, hardwired behaviors (e.g., fleeing fro
 
 1. **Pick one topic and choose 1–2 specific neurons.**
 2. **Look up the Body ID** in [neuPrint](https://neuprint.janelia.org) (`male-cns:v1.0`).
-3. **Open the 3D view** in the [Male CNS Cell Type Explorer](male-cns-cell-type-explorer.md) and take clean screenshots.
+3. **Open the 3D view** in the [Male CNS Cell Type Explorer](5b-male-cns-cell-type-explorer.md) and take clean screenshots.
 4. **Extract the top 5 upstream and top 5 downstream partner tables** from neuPrint.
 5. **Search Google Scholar or PubMed** for papers discussing your neuron/circuit (e.g., search `"LC10a Drosophila"` or `"EPG neurons fly navigation"`).
-6. **Write your 500–1,000 word commentary** following the structure outlined in the [Expectations Guide](expectations_flies.md).
+6. **Write your 500–1,000 word commentary** following the structure outlined in the [Expectations Guide](1-expectations_flies.md).

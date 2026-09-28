@@ -74,9 +74,9 @@ These sections will help you understand what cell types are, how researchers ide
 
 There are two primary ways to access and explore the connectome:
 
-1. **Graphical User Interface (GUI):** A web-browser-based interface that allows users to explore neurons and connections without writing code. See the [neuPrint GUI Guide](4a-neuprint_gui_guide.md) and [Neuroglancer Guide](5-neuroglancer_guide.md).
+1. **Graphical User Interface (GUI):** A web-browser-based interface that allows users to explore neurons and connections without writing code. See the [neuPrint GUI Guide](5a-neuprint_gui_guide.md) and [Male CNS Cell Type Explorer](5b-male-cns-cell-type-explorer.md).
 
-2. **Application Programming Interface (API):** A programming interface that allows users to query, manipulate, and analyze connectome data. See the [neuPrint API Guide](3a-neuprint_api_guide.md) and [neuPrint API Tutorial Notebook](3b-neuprint_api_guide.ipynb).
+2. **Application Programming Interface (API):** A programming interface that allows users to query, manipulate, and analyze connectome data. See the [neuPrint API Guide](6-neuprint_api_guide.md) and [neuPrint API Tutorial Notebook](6b-neuprint_api_querying_connections.ipynb).
 
 The neuPrint web browser interface is sufficient for many biological questions and exploratory analyses. However, some research questions require custom processing, large-scale analyses, or data manipulation that cannot easily be performed through the web interface alone. In these cases, programming provides greater flexibility and allows researchers to interact with the connectome in more advanced ways.
 
@@ -84,14 +84,14 @@ Both approaches serve different purposes. If a GUI is sufficient for your questi
 
 # What tools do I need to begin?
 
-If you are exploring the connectome programmatically, you will need to install several tools. If you are participating in the GUI track, feel free to skip this section and refer to the [neuPrint GUI Guide](4a-neuprint_gui_guide.md) and [Neuroglancer Guide](5-neuroglancer_guide.md).
+If you are exploring the connectome programmatically, you will need to install several tools. If you are participating in the GUI track, feel free to skip this section and refer to the [neuPrint GUI Guide](5a-neuprint_gui_guide.md) and [Male CNS Cell Type Explorer](5b-male-cns-cell-type-explorer.md).
 
 
 ## 1. Install Python, a code editor, and set-up you virtual environment
 
 You will need:  VS Code (code editor), Python, and a virtual environment. 
 
-See [Installing Python and Exploring Basic Concepts](../programming_guide/python-install.md) for how to install Python and Visual Studio Code and for a Python crash course. 
+See [Installing Python and Exploring Basic Concepts](../programming_guide/2_python_install.md) for how to install Python and Visual Studio Code and for a Python crash course.
 
 See [Conda, Packages, and Jupyter Notebook](../programming_guide/3_python_conda.ipynb) for how to manage Python environments, install packages, and write code in Jupyter Notebooks (.ipynb), which are widely used in data science and neuroscience.
 

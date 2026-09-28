@@ -143,7 +143,7 @@ We hope, from whatever you find, you demonstrate curiosity and thoughtful explor
 
 # Are You Ready?
 
-Before beginning your project, return to [`Expectations: Intro vs Advanced Levels (Track 1)`](expectations_flies.md).
+Before beginning your project, return to [`Expectations: Intro vs Advanced Levels (Track 1)`](1-expectations_flies.md).
 
 In particular, revisit:
 

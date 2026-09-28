@@ -114,14 +114,22 @@ After parcellation, we combine the signals from all voxels belonging to a partic
 
 The resulting sequence of values over time is known as a **time series**.
 
-For example, participants in the LEMON dataset underwent a resting-state fMRI scan lasting approximately **15 minutes and 30 seconds**. During this period, the brain was sampled every **1.4 seconds**, resulting in **657 time points**.
+For example, participants in the LEMON dataset underwent a resting-state fMRI scan lasting approximately **15 minutes and 30 seconds**. During acquisition, the brain was sampled every **1.4 seconds**, producing **657 volumes (time points)**.
+
+:::{important}
+### Why Do the Competition Files Contain 652 Time Points?
+
+The original scan contained **657 acquired volumes**, but the LEMON preprocessing pipeline discarded the **first five volumes** to allow the MRI signal to reach equilibrium and a steady state. The competition's regional time-series files were extracted from these preprocessed scans, so every provided Schaefer100 time-series file contains **652 rows/time points** (`657 − 5 = 652`). Nothing is missing from the competition files.
+
+In your Methods section, you can report this concisely: *“Resting-state fMRI was acquired with 657 volumes (TR = 1.4 s). The first five volumes were discarded during preprocessing for signal equilibration, leaving 652 time points for analysis.”* See the [original LEMON publication](https://www.nature.com/articles/sdata2018308) for the complete preprocessing pipeline.
+:::
 
 If we divide the brain into **100 regions** using the Schaefer100 atlas, we obtain:
 
 ```text
 100 brain regions
 ×
-657 time points for each of the 100 regions
+652 retained time points for each of the 100 regions
 =
 100 regional time series
 ```
@@ -132,7 +140,7 @@ A simplified representation might look like:
 
 ```text
               Time Point
-Region      1    2    3    4   ... 657
+Region      1    2    3    4   ... 652
 ---------------------------------------
 Region 1   ...  ...  ...  ...       ...
 Region 2   ...  ...  ...  ...       ...
@@ -201,7 +209,7 @@ The output is a matrix where:
 
 This matrix becomes the starting point for many downstream analyses, including functional connectivity and graph theory.
 
-We have already completed this step for you. THus, you will be working directly with these regional time series data. 
+We have already completed this step for you. Thus, you will be working directly with these regional time-series data.
 
 ---
 
@@ -248,6 +256,7 @@ It is important to remember that the data we are working with have already under
 
 As described by the LEMON dataset authors, preprocessing included steps such as:
 
+* Discarding the first five volumes for signal equilibration
 * Motion correction
 * Distortion correction
 * Coregistration between functional and structural scans
@@ -288,4 +297,3 @@ Before moving on, take a moment to make sure you are comfortable with the follow
 * The role of **Nilearn** in extracting and analyzing neuroimaging data
 
 Do not worry if you do not remember every detail. Try to understand the big picture and how the different pieces fit together. You can always return to earlier sections later if you need a refresher.
-

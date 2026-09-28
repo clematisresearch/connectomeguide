@@ -518,5 +518,5 @@ You now have the basic anatomical vocabulary needed to start exploring the fly c
 
 Next, you can:
 
-* Learn how to explore cell types and 3D neurons in the [Male CNS Cell Type Explorer](male-cns-cell-type-explorer.md).
-* Learn how to search for neurons and their synaptic partners in the [neuPrint GUI Guide](4a-neuprint_gui_guide.md).
+* Learn how to explore cell types and 3D neurons in the [Male CNS Cell Type Explorer](5b-male-cns-cell-type-explorer.md).
+* Learn how to search for neurons and their synaptic partners in the [neuPrint GUI Guide](5a-neuprint_gui_guide.md).

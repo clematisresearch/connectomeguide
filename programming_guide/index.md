@@ -237,6 +237,21 @@ By this point, you'll have seen how the individual pieces fit together into a co
 
 ---
 
+## Tutorial 4: Git, GitHub, and the Command Line
+
+This final tutorial introduces the tools used to record and share a coding project after you have practised the core Python workflow.
+
+You will learn how to:
+
+* use the terminal and move between folders with `cd`,
+* use Git to record changes to your code,
+* create and update a public GitHub repository, and
+* keep private information such as API tokens out of that repository.
+
+If you are beginning an API project before finishing every Python tutorial, you may complete Tutorial 4 earlier so that you can create the required repository and protect your neuPrint token.
+
+---
+
 # Final Thoughts
 
 Learning to program is not about memorizing every command or becoming an expert overnight.
@@ -252,4 +267,3 @@ That is not a sign that you are bad at programming. It is simply part of program
 Be patient with yourself, stay curious, and keep experimenting. Every concept you learn becomes another tool that allows you to ask bigger scientific questions and explore increasingly complex datasets.
 
 We hope this guide gives you not only the technical skills needed for Connectome 2026–2027, but also the confidence to continue learning long after you've finished these tutorials.
-

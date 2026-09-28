@@ -69,7 +69,7 @@ To support your journey, we have created a comprehensive learning resource organ
 
 Everything you need to know about the competition, including rules, timelines, deliverables, submission guidelines, judging criteria, awards, and frequently asked questions.
 
-## [2. Synapse-Level Connectomics (Flies)](synapse_level_connectomics_flies/1-index.md)
+## [2. Synapse-Level Connectomics (Flies)](synapse_level_connectomics_flies/0-index.md)
 
 A guide to exploring one of the most detailed maps of a brain ever created.
 
