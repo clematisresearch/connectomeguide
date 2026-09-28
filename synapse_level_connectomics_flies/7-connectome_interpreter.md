@@ -15,7 +15,7 @@ The wealth of information contained in synapse-level connectomes, together with 
 
 A common approach in the field is to focus on the strongest connection partners of neurons. While this is useful for highlighting prominent interactions, choosing an appropriate threshold for what constitutes a “strong” connection can be challenging, given the continuous distribution of connection strengths. Applying such thresholds can also reduce the number of connections considered, potentially overlooking weaker or indirect interactions that may nevertheless contribute to circuit function. This complexity also reflects the fact that many neurons likely help process different types of sensory information and contribute to multiple behaviours. Yet, our understanding of the functional roles of neurons traditionally relies on experimentally manipulating and monitoring neurons under controlled conditions. Doing this for hundreds of thousands of neurons and the many more connections is not feasible. 
 
-The [Connectome Interpreter Toolkit](https://www.biorxiv.org/content/10.1101/2025.09.29.679410v2.full) is a toolbox that helps researchers turn massive, complex connectome wiring diagrams into hypotheses about neural function and behaviour. 
+The [Connectome Interpreter Toolkit](https://doi.org/10.1101/2025.09.29.679410) is a toolbox that helps researchers turn massive, complex connectome wiring diagrams into hypotheses about neural function and behaviour.
 
 Connectome Interpreter addresses this challenge by **combining structural connectome data with existing knowledge about neuronal function**. It provides computational tools to  explore:
 
@@ -33,4 +33,3 @@ To learn more about this work, please refer to and cite:
 Yin, Y., Hoeller, J., Mathiasen, A., Tsang, J. M. F., Charrier, M. E., & Cardona, A. (2025). *The Connectome Interpreter Toolkit*. bioRxiv. [https://doi.org/10.1101/2025.09.29.679410](https://doi.org/10.1101/2025.09.29.679410)
 **GitHub:** [https://github.com/YijieYin/connectome_interpreter](https://github.com/YijieYin/connectome_interpreter)
 **Documentation:** [https://connectome-interpreter.readthedocs.io/en/latest/] (https://connectome-interpreter.readthedocs.io/en/latest/)
- 
