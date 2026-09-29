@@ -38,6 +38,12 @@ This is where the expectations begin to differ between the **Introductory** and 
 
 The tutorial codebook will be clearly labeled as either `(Introductory)` or `(Advanced)`.
 
+:::{important}
+### Code and Public GitHub Repository
+
+Both the **Introductory** and **Advanced** Track 2 pathways involve coding. You must upload the notebooks and scripts needed to reproduce your analysis to a **public GitHub repository**. Include a clear README that explains your research question, the files in the repository, the required Python packages, and the order in which your code should be run. [**Tutorial 4: Git, GitHub, and the Command Line**](../programming_guide/7_introducing_git.md) explains how to create a repository, upload your code, and write a useful README.
+:::
+
 ---
 
 # Introductory Level
